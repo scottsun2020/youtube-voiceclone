@@ -1,0 +1,69 @@
+ffmpeg version 8.1.1 Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 21.0.0 (clang-2100.0.123.102)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/8.1.1 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gpl --enable-libsvtav1 --enable-libopus --enable-libx264 --enable-libmp3lame --enable-libdav1d --enable-libvmaf --enable-libvpx --enable-libx265 --enable-openssl --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60. 26.101 / 60. 26.101
+  libavcodec     62. 28.101 / 62. 28.101
+  libavformat    62. 12.101 / 62. 12.101
+  libavdevice    62.  3.101 / 62.  3.101
+  libavfilter    11. 14.101 / 11. 14.101
+  libswscale      9.  5.101 /  9.  5.101
+  libswresample   6.  3.101 /  6.  3.101
+Input #0, concat, from 'audio/chunks/concat_list.txt':
+  Duration: N/A, start: -0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s, start -0.025057
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to 'audio/english_voice.wav':
+  Metadata:
+    ISFT            : Lavf62.12.101
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 44100 Hz, mono, s16, 705 kb/s
+    Metadata:
+      encoder         : Lavc62.28.101 pcm_s16le
+size=   94976KiB time=00:18:23.40 bitrate= 705.1kbits/s speed=2.19e+03x elapsed=0:00:00.50    [out#0/wav @ 0x9d10280c0] video:0KiB audio:167656KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000045%
+size=  167656KiB time=00:32:26.50 bitrate= 705.6kbits/s speed=2.19e+03x elapsed=0:00:00.88    
+Loaded 800 segments
+Built 38 chunks, total 31,635 chars
+[1/38] 857 chars → chunk_000.mp3
+[2/38] 839 chars → chunk_001.mp3
+[3/38] 867 chars → chunk_002.mp3
+[4/38] 844 chars → chunk_003.mp3
+[5/38] 877 chars → chunk_004.mp3
+[6/38] 828 chars → chunk_005.mp3
+[7/38] 834 chars → chunk_006.mp3
+[8/38] 855 chars → chunk_007.mp3
+[9/38] 865 chars → chunk_008.mp3
+[10/38] 856 chars → chunk_009.mp3
+[11/38] 837 chars → chunk_010.mp3
+[12/38] 831 chars → chunk_011.mp3
+[13/38] 861 chars → chunk_012.mp3
+[14/38] 915 chars → chunk_013.mp3
+[15/38] 872 chars → chunk_014.mp3
+[16/38] 808 chars → chunk_015.mp3
+[17/38] 821 chars → chunk_016.mp3
+[18/38] 819 chars → chunk_017.mp3
+[19/38] 839 chars → chunk_018.mp3
+[20/38] 824 chars → chunk_019.mp3
+[21/38] 863 chars → chunk_020.mp3
+[22/38] 807 chars → chunk_021.mp3
+[23/38] 837 chars → chunk_022.mp3
+[24/38] 851 chars → chunk_023.mp3
+[25/38] 897 chars → chunk_024.mp3
+[26/38] 800 chars → chunk_025.mp3
+[27/38] 813 chars → chunk_026.mp3
+[28/38] 841 chars → chunk_027.mp3
+[29/38] 906 chars → chunk_028.mp3
+[30/38] 830 chars → chunk_029.mp3
+[31/38] 854 chars → chunk_030.mp3
+[32/38] 819 chars → chunk_031.mp3
+[33/38] 800 chars → chunk_032.mp3
+[34/38] 863 chars → chunk_033.mp3
+[35/38] 836 chars → chunk_034.mp3
+[36/38] 848 chars → chunk_035.mp3
+[37/38] 839 chars → chunk_036.mp3
+[38/38] 382 chars → chunk_037.mp3
+
+All chunks generated. Concatenating...
+
+Final: audio/english_voice.wav
+Duration: 1946.5s = 32.4 min

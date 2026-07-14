@@ -1,0 +1,353 @@
+Args: {'audio': ['audio/english_voice_final.wav'], 'model': 'mlx-community/whisper-large-v3-mlx', 'output_name': 'subtitles_en_aligned', 'output_dir': 'transcripts', 'output_format': 'srt', 'verbose': True, 'task': 'transcribe', 'language': 'en', 'temperature': 0, 'best_of': 5, 'patience': None, 'length_penalty': None, 'suppress_tokens': '-1', 'initial_prompt': None, 'condition_on_previous_text': False, 'fp16': True, 'compression_ratio_threshold': 2.4, 'logprob_threshold': -1.0, 'no_speech_threshold': 0.6, 'word_timestamps': False, 'prepend_punctuations': '"\'“¿([{-', 'append_punctuations': '"\'.。,，!！?？:：”)]}、', 'highlight_words': False, 'max_line_width': None, 'max_line_count': None, 'max_words_per_line': None, 'hallucination_silence_threshold': None, 'clip_timestamps': '0'}
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 7313.52it/s]
+[00:00.000 --> 00:09.940]  Over the past month or so, I think many people have been concerned about the war between the US, Israel and Iran, a conflict that has shaken the global situation.
+[00:10.640 --> 00:14.220]  Today, I'd like to start with this topic, but from a different angle.
+[00:14.940 --> 00:22.320]  I think war serves as a kind of stage, one where you can see how astonishing human invention can be.
+[00:22.940 --> 00:26.020]  In this war, you see all kinds of different weapons.
+[00:26.020 --> 00:44.640]  I don't know if you've been following the news, but in the upper left corner here, that's the MOAB, the mother of all bombs. It's the most powerful bomb in the conventional arsenal. Even just to drop it, they need a C-130 Hercules transport plane, because it's too heavy and too large.
+[00:45.340 --> 00:49.100]  This mother of all bombs is the strongest in the conventional category.
+[00:49.680 --> 00:56.440]  If you want to go beyond that, you have to step into unconventional weapons, nuclear weapons, for example.
+[00:56.940 --> 00:58.700]  That's pushing things to the limit.
+[00:59.300 --> 01:02.340]  Next to it is the bunker buster bomb.
+[01:03.340 --> 01:09.520]  As you know, Iran has many underground missile cities, underground nuclear facilities.
+[01:10.120 --> 01:13.560]  The bomber that drops these bunker busters is the B-2.
+[01:13.560 --> 01:31.900]  The picture at the bottom left is a torpedo, a MK-48 heavyweight torpedo. You might still remember, in the Indian Ocean, an Iranian frigate that had just finished joint exercises with India was returning to Iran when a US submarine sank it en route.
+[01:32.600 --> 01:36.000]  That frigate wasn't a major warship and it wasn't particularly advanced.
+[01:36.320 --> 01:38.320]  A missile would have been enough to take it out.
+[01:38.780 --> 01:42.040]  With a missile, you'd at least give the crew a chance to escape.
+[01:42.040 --> 01:44.460]  But they actually used this heavy torpedo.
+[01:45.140 --> 01:46.660]  You can find the footage on YouTube.
+[01:47.140 --> 01:48.720]  The ship went down very fast.
+[01:49.440 --> 01:53.700]  By the time Sri Lanka's old vessels arrived, the ship had already sunk.
+[01:54.460 --> 01:57.940]  So why use a heavyweight torpedo against it?
+[01:57.940 --> 02:08.200]  The story is that on board the U.S. submarine that day, a Los Angeles class sub, there were two Australian naval officers undergoing training.
+[02:08.840 --> 02:12.020]  You know, Australia bought nuclear submarines from the U.S.
+[02:12.540 --> 02:20.960]  And in doing so, they tacitly agreed that if anything happens at the first island chain in the Pacific, Australia would join the fight.
+[02:20.960 --> 02:25.880]  So inside that submarine that day, it was effectively combat training as well.
+[02:25.880 --> 02:30.240]  and next to that, another impressive one, it's called the graphite bomb.
+[02:30.820 --> 02:33.460]  They threatened to bomb Iran's power plant with it.
+[02:34.160 --> 02:39.960]  Notice, it's not a weapon that harms civilians, because they noticed one phenomenon.
+[02:40.480 --> 02:47.000]  In some rural areas, in places with very few people, the electricity usage was surprisingly high.
+[02:47.480 --> 02:52.740]  That usually means there are nuclear facilities behind it, or maybe military installations.
+[02:52.740 --> 03:18.180]  So the US demand their threat to bomb the power plant. But if you actually destroyed the plant, that would be terrible. It would affect many people and civilian life. So what is this graphite bomb? The moment it's deployed, the graphite itself causes massive short circuits, which knocks out power transmission. But the power plant itself and the generating equipment are not destroyed.
+[03:18.180 --> 03:39.980]  You can see, isn't that remarkable? Actually, these warfare technologies, take US drones, for example, the Lucas drone. Then there are unmanned speedboats, unmanned vessels. In the lower left corner, you can see one called Starshield. That's also from SpaceX. Starlink is for civilian use. Starshield is for military use.
+[03:39.980 --> 03:47.380]  So if you take apart the nose cones of those drones, you'll find receivers inside and those tap into Starshield for navigation.
+[03:48.140 --> 03:52.560]  And in the upper right corner, that one is a laser cannon.
+[03:52.980 --> 03:59.980]  Actually, since around 2023, one thing that's become very popular is the so-called saturation attack.
+[04:00.720 --> 04:06.220]  You use cheap weapons, drones, for instance, or some inexpensive missiles.
+[04:06.220 --> 04:29.020]  And here's the thing. The missiles used to shoot them down are far more expensive. You've probably heard the 1 to 100 ratio, meaning the value of one interceptor missile is 100 times that of one drone. So while the enemy is spending pennies, you're getting drained dry. So you can see in this conflict, you're seeing a lot of very cheap weapons.
+[04:29.620 --> 04:33.360]  Looking at these weapons, you can see the technology is quite advanced.
+[04:33.860 --> 04:40.000]  Someone once said, every weapon humans have invented has eventually been deployed on a battlefield.
+[04:40.700 --> 04:47.520]  And in fact, throughout the history of war, weapons have gone through several, three major revolutions, you could say.
+[04:48.220 --> 04:50.920]  Let me walk through them as a kind of framework.
+[04:50.920 --> 05:11.400]  If someone asked you in all of history which was the greatest empire, you might say the Mongol Empire, and you'd be right, because across the vast expanse of Eurasia, the Mongol Empire stretched across an enormous swath of the continent. Why were they so formidable? The Mongols' greatest strength was their cavalry.
+[05:11.400 --> 05:37.760]  I think in this painting, when I found this image, I felt that the person who painted it really understood the Mongol cavalry. Why? Because one of the Mongols' deadliest assets was their bow, the famous recurve bow. See how both ends curve outward? Compared with bows of the 13th century, it was three or four times more powerful. At close range, it could pierce armour.
+[05:37.760 --> 05:45.160]  The other thing was the stirrup, the foothold you step into when mounting the stirrup.
+[05:45.540 --> 05:57.720]  The Mongols didn't invent the stirrup, but they pushed its use to the limit. Why? Because of the stirrup, the rider could stand on his horse and shoot arrows in a full 360 degrees, dominating his opponent.
+[05:57.720 --> 06:03.120]  combined with that powerful bow, they had a famous tactic called the Parthian shot.
+[06:03.880 --> 06:08.460]  The moment you thought they were retreating and chased them, they'd turn around and put an arrow
+[06:08.460 --> 06:14.200]  in you. That's why in the 13th century the Mongols swept across everything. No one could stand
+[06:14.200 --> 06:20.920]  against them. So what was the first weapons revolution? It was gunpowder. Applying gunpowder
+[06:20.920 --> 06:27.420]  to military use. That gave us firearms and also artillery. So if someone asks you which was the
+[06:27.420 --> 06:34.140]  largest empire by sheer area, it wasn't the Mongols. By area, and you know this one well,
+[06:34.280 --> 06:41.080]  it was the empire on which the sun never set, the British Empire. In history, by total area,
+[06:41.480 --> 06:47.020]  the British Empire was the largest. That was the first revolution in warfare and in weapons.
+[06:47.460 --> 06:54.580]  If someone says to you, rare, medium rare, or well done, what comes to mind? You'd probably
+[06:54.580 --> 07:00.800]  think someone's teaching you how to grill steak, but actually, this is military jargon, a technical
+[07:00.800 --> 07:08.640]  term. It refers to one major country, namely the United States. If the US ever came under nuclear
+[07:08.640 --> 07:15.480]  attack, these are the response options on the table. Rare, medium rare, or well done. What they're
+[07:15.480 --> 07:22.020]  really talking about isn't steak, it's the earth. So if you're hit by a nuclear strike, what's the
+[07:22.020 --> 07:28.200]  response? Mutually assured destruction or some other kind of reply? So the second revolution in
+[07:28.200 --> 07:34.300]  weapons history was the invention of the nuclear bomb. After the nuclear bomb was invented, it
+[07:34.300 --> 07:39.320]  wasn't long before two were dropped on Japan. And America has remained extremely powerful,
+[07:39.740 --> 07:47.520]  even today. Nuclear weapons have two distinctive features. First, you need nuclear fuel. And that
+[07:47.520 --> 07:53.780]  nuclear fuel is fundamentally hard to obtain. For instance, Iran today desperately wants to become
+[07:53.780 --> 08:00.760]  a nuclear power, but refining and obtaining that fuel is not easy. On top of that, there's the
+[08:00.760 --> 08:07.920]  International Nuclear Non-Proliferation Treaty. So from 1945 to today, only 10 countries possess
+[08:07.920 --> 08:13.420]  nuclear weapons, and that is nuclear capability. One thing to note, the last two added,
+[08:13.420 --> 08:22.840]  I've marked their dates here. I don't know if you can see. The last two countries to join the nuclear club, the latest one was North Korea in 2006.
+[08:23.420 --> 08:31.540]  And the one before that was Pakistan. Today's gathering has a theme and it's called Machine Killers or Killer Robots.
+[08:32.160 --> 08:36.300]  Robots in everyday life are already affecting everyone in many ways.
+[08:36.300 --> 08:49.560]  For example, here in the upper left, that's Waymo. Have any of you ridden in one over there in LA downtown, for example? You'll see them soon enough, those self-driving taxis.
+[08:50.520 --> 09:01.380]  Waymo is easy to recognize, sensors all over the roof and sides. The one next to it, that's like Shake Shack's, robots that deliver documents and food.
+[09:02.060 --> 09:05.360]  Some robots, for example, the Optimus, which is Tesla's.
+[09:05.980 --> 09:07.960]  There's been recent news in the US.
+[09:08.380 --> 09:10.300]  They've started putting it behind the counter.
+[09:10.780 --> 09:13.980]  For instance, there's a place in LA called Diamond Bar.
+[09:14.500 --> 09:16.820]  Their city hall has one of these robots.
+[09:17.340 --> 09:20.640]  You walk up and it asks you what it can help you with.
+[09:21.040 --> 09:23.180]  Robots are even helping with law enforcement.
+[09:23.840 --> 09:26.080]  A few days ago, I saw this vehicle.
+[09:26.540 --> 09:29.260]  I don't know if you've been following this technology.
+[09:29.940 --> 09:31.480]  It's called the CyberCab.
+[09:32.000 --> 09:36.240]  Now, Waymo belongs to Google and the CyberCab belongs to Tesla.
+[09:36.840 --> 09:38.220]  So I have to ask a question.
+[09:38.580 --> 09:41.800]  If there's nothing special about it, it's just a self-driving taxi,
+[09:42.100 --> 09:44.620]  then what's so special about the CyberCab?
+[09:44.800 --> 09:45.420]  Have you noticed?
+[09:45.420 --> 09:49.840]  I saw one being tested on the street, and here's what's special.
+[09:50.180 --> 09:52.980]  It has no steering wheel and no pedals either.
+[09:53.520 --> 09:57.120]  If you think of the Dragon Capsule, SpaceX's spacecraft
+[09:57.120 --> 10:00.220]  that takes people to the International Space Station.
+[10:00.700 --> 10:02.360]  It's basically the same idea.
+[10:02.840 --> 10:05.180]  You get on board and there's just a touchscreen,
+[10:05.540 --> 10:08.740]  just a touchscreen in there, no steering wheel at all.
+[10:09.020 --> 10:11.460]  So if something goes wrong, you wouldn't know what to do.
+[10:12.040 --> 10:14.140]  Today, we're talking about killer robots.
+[10:14.820 --> 10:18.000]  Killer robot, that's actually the colloquial term.
+[10:18.120 --> 10:19.300]  What's the technical name?
+[10:19.820 --> 10:21.900]  It's lethal autonomous weapon,
+[10:22.060 --> 10:25.300]  or lethal and autonomous weapons.
+[10:25.300 --> 10:29.060]  As the name suggests, it's a weapon, but it has two key elements.
+[10:29.440 --> 10:31.860]  First, it's equipped with lethal weaponry.
+[10:32.280 --> 10:33.980]  And the second element, it's autonomous.
+[10:34.220 --> 10:35.360]  We'll get to that in a moment.
+[10:35.820 --> 10:38.760]  So the killer robot is defined by these two traits.
+[10:38.920 --> 10:41.000]  First, it carries lethal weapons.
+[10:41.140 --> 10:42.920]  And second, it acts autonomously.
+[10:43.520 --> 10:46.300]  Now, in your mind, what does a killer robot look like?
+[10:46.620 --> 10:47.480]  Something like this?
+[10:47.960 --> 10:49.360]  A while back, there were movies.
+[10:49.900 --> 10:51.620]  Terminator or Robocop.
+[10:51.680 --> 10:52.620]  You've seen the type.
+[10:53.080 --> 10:54.240]  But those are all fiction.
+[10:54.740 --> 11:00.020]  Closer to reality, there's Big Dog with a gun mounted on top, or some tracked robots.
+[11:00.400 --> 11:07.700]  But you might say, no, no, the robots I saw on TV, those killer robots aren't like that.
+[11:08.100 --> 11:09.080]  They look like this.
+[11:09.240 --> 11:15.780]  At the Spring Festival Gala recently, I saw these killer robots, ones that can throw punches.
+[11:16.500 --> 11:20.780]  Actually, humanoid robots may not be the most advantageous form,
+[11:21.400 --> 11:24.740]  because two legs are never going to outrun four legs.
+[11:25.180 --> 11:30.120]  And if the terrain is rough, I don't think they'd be as stable as tracked vehicles either.
+[11:30.620 --> 11:35.380]  Besides the Iran war, there's another war, going on in Eastern Europe,
+[11:35.800 --> 11:38.020]  that's been raging for over four years now.
+[11:38.420 --> 11:39.880]  That's the Russia-Ukraine war.
+[11:40.560 --> 11:42.660]  Last year, there was a scene like this.
+[11:43.180 --> 11:44.760]  Some Russian soldiers surrendered.
+[11:45.660 --> 11:49.600]  They surrendered to a unit, but that unit had no human in it.
+[11:49.960 --> 11:50.980]  They were all robots.
+[11:51.780 --> 11:53.200]  I don't know if you saw the news.
+[11:53.720 --> 11:54.640]  I saw it on YouTube.
+[11:55.100 --> 11:56.860]  I'm not sure if you can still find it.
+[11:57.560 --> 11:58.380]  Here's what happened.
+[11:58.560 --> 12:04.700]  A drone, a Ukrainian drone, flew over a trench and spotted some Russian soldiers.
+[12:05.480 --> 12:07.140]  Some of them fired at the drone.
+[12:07.960 --> 12:10.260]  Not long after, a vehicle showed up.
+[12:10.740 --> 12:12.660]  You can see it on the bottom right of the screen.
+[12:12.800 --> 12:13.680]  What was that vehicle?
+[12:13.680 --> 12:34.160]  It was actually a bomb, a four-wheeled bomb. It drove right up to the trench, intending to wipe them all out at once. But the Russian soldiers saw it and raised a white flag, signaling surrender. Then another vehicle equipped with a machine gun came up, disarmed them, and escorted them back to a POW camp.
+[12:34.160 --> 12:52.740]  Can you believe that's even possible? If you've been following the news, you know that in these four years Ukraine has become a military powerhouse, especially in unmanned systems, unmanned aircraft, unmanned ground vehicles, unmanned combat vehicles, unmanned naval vessels.
+[12:53.160 --> 13:03.480]  The unmanned vessels are particularly famous. Why? Because they've kept the Black Sea Fleet in check, Russia's Black Sea Fleet.
+[13:04.160 --> 13:11.980]  When controlling these unmanned machines, they usually use what's called first-person view, that is, first-person vision.
+[13:12.480 --> 13:16.920]  What the aircraft sees, what the camera sees, is what you see.
+[13:17.100 --> 13:25.460]  Like in the image you're looking at, the operator, the controller, what he sees is exactly what the drone's camera is capturing.
+[13:25.460 --> 13:34.500]  Starting from late 2024 on the Ukrainian battlefield, they began implementing what's called coordinated combat.
+[13:35.060 --> 13:40.140]  A single soldier, a single individual doesn't just control the ground vehicles.
+[13:40.700 --> 13:44.260]  He can also simultaneously control aerial drones.
+[13:44.820 --> 13:53.940]  So there's surveillance. Like the earlier example, he spots the Russian soldiers, then can dispatch a bomb carrying vehicle to take out the enemy.
+[13:53.940 --> 14:01.760]  You can see this is coordinated combat, letting a single soldier control unmanned weapons across sea, land and air.
+[14:02.280 --> 14:09.680]  On top of that, over these few years, artificial intelligence has been developing on the battlefield, making the effectiveness even more formidable.
+[14:10.280 --> 14:12.840]  The effectiveness of using robots. Why?
+[14:12.840 --> 14:20.160]  because AI can take massive amounts of sensor data, huge volumes of data, and digest and analyze it,
+[14:20.700 --> 14:26.680]  assess the battlefield situation, and then offer options for action. So have you noticed in recent
+[14:26.680 --> 14:32.300]  months the US military looks pretty impressive? For example, the capture of Maduro, done in a few
+[14:32.300 --> 14:38.560]  hours overnight, and they got him. Now in Central and South America, Venezuela counts as a regional
+[14:38.560 --> 14:45.200]  military power. But just like that, the capture succeeded. I'll give you more examples and you'll
+[14:45.200 --> 14:51.200]  understand. I wonder if any of you have seen this movie. It's called Zero Dark Thirty.
+[14:52.120 --> 14:57.400]  Some people mistakenly think that if you want to watch war movies, this is one of the top ten.
+[14:57.860 --> 15:03.200]  What does Zero Dark Thirty mean? The Chinese title I think you already know. Usually,
+[15:03.200 --> 15:08.820]  for military operations, they pick the hours between 12 a.m. and 3 a.m. because the body
+[15:08.820 --> 15:14.200]  circadian rhythm tells us that most people between midnight and 3 a.m. are at their most vulnerable,
+[15:14.820 --> 15:22.720]  their sleepiest. So 030 means 1230, an operation at 30 past midnight. There's a scene like this.
+[15:23.120 --> 15:29.400]  A CIA female analyst finds bin Laden hiding in Pakistan, but her superiors keep delaying action.
+[15:29.400 --> 15:35.460]  No action. Why? Because they're afraid of a diplomatic incident. She keeps asking,
+[15:35.880 --> 15:42.240]  how certain are we that bin Laden is there, in that compound? This scene, the CIA analyst goes
+[15:42.240 --> 15:49.120]  to her boss's door every day and writes a number. Like today, she writes, 21 days. It's been 21 days
+[15:49.120 --> 15:56.500]  since they found the compound and still no action. Until what? 159 days. Over four months with no
+[15:56.500 --> 16:03.800]  action. Finally, the operation went ahead. In this Iran war, the most striking thing was the first
+[16:03.800 --> 16:10.480]  day. On day one, they took out Khamenei. Not just that. On day one, they killed 48 senior generals
+[16:10.480 --> 16:17.300]  and important leaders. Remarkable. Truly remarkable. How could they accomplish this?
+[16:17.680 --> 16:24.040]  Beyond the precision of the weapons, look at the upper left, Khamenei's residence. A precision
+[16:24.040 --> 16:31.060]  strike, right? The building collapsed and several deep holes because they used bunker booster
+[16:31.060 --> 16:36.600]  munitions. Meanwhile, the surrounding buildings were not destroyed. So what's actually happening
+[16:36.600 --> 16:42.880]  here? They use extensive surveillance, street cameras, for example, massive surveillance,
+[16:43.360 --> 16:50.500]  and AI to analyze it all. They confirm all the targeted individuals are on site, then decide when,
+[16:50.500 --> 16:56.940]  whether to strike at that moment. And when they do strike, what weapon? You may have heard of one
+[16:56.940 --> 17:05.980]  called Blue Spear, Blue Sparrow. This weapon is very unusual. Why? A normal missile, once launched,
+[17:06.180 --> 17:11.300]  flies forward. But this one flies upward. It punches out to the edge of the atmosphere,
+[17:11.360 --> 17:16.660]  the edge of space. Why does it do that? First, there's less drag at the edge of space,
+[17:16.660 --> 17:26.140]  So it has much longer range. When it comes back down to ground level, reentering the atmosphere, it dives so fast that interception becomes very difficult.
+[17:26.440 --> 17:33.920]  Understand, there's actually another reason, because, look, this is day one of the war, the early stage of the conflict.
+[17:34.380 --> 17:40.300]  You don't yet know how much of Iran's air defence has been suppressed or destroyed.
+[17:40.300 --> 18:00.900]  So they chose this weapon for exactly that reason. You know, radar, no matter how it looks from the outside, inside it has an antenna that rotates 360 degrees. The principle is that simple. You emit signals outward, they bounce off something and come back and now you know what's out there.
+[18:00.900 --> 18:08.120]  It scans 360 degrees, right? But most radars have a blind spot. That blind spot is the zenith,
+[18:08.540 --> 18:15.060]  directly overhead. You rarely see a radar sweeping straight up, understand? So this Blue Sparrow's
+[18:15.060 --> 18:22.800]  special feature is it comes in right at the zenith, straight down on top of you. So why on day one?
+[18:22.800 --> 18:30.280]  What I want to show you is all that intelligence, the analysis of it, the timing, the weapon
+[18:30.280 --> 18:37.320]  operations. All of it was filtered through AI to inform the decision. The result is obvious.
+[18:37.940 --> 18:44.160]  Now, facing these unmanned weapons, there are counter strategies too. Can you see what this
+[18:44.160 --> 18:49.740]  image shows? Look at this city. Doesn't it look like there's a spider web over it? This is a town
+[18:49.740 --> 18:56.300]  in eastern Ukraine. What are those? When a drone is launched into the sky, it stays in contact with
+[18:56.300 --> 19:02.480]  its operator via radio waves. How do you counter it? You send a jamming signal, an electronic
+[19:02.480 --> 19:09.540]  jamming system. Once contact is lost, you can't control it anymore. Understand? So how do you
+[19:09.540 --> 19:16.240]  solve that problem? How do you solve it? They use fiber optics, your fiber optic cables, to tether
+[19:16.240 --> 19:22.140]  the drone. That way it's not affected by radio jamming. And through the fiber, you can transmit
+[19:22.140 --> 19:28.620]  the same signals. First, control of the drone. Second, the video feed. You can still operate it
+[19:28.620 --> 19:33.880]  from a first-person view. Do you see what I mean? And those fiber cables are very long.
+[19:34.480 --> 19:40.600]  Tens of kilometers. Each one is tens of kilometers. After the target is destroyed,
+[19:41.060 --> 19:46.740]  the fiber stays behind on the battlefield. Over time, the whole battlefield looks like a spider
+[19:46.740 --> 19:53.720]  web. That's what those fibers are. If you know fiber optics, it doesn't break easily. But as you
+[19:53.720 --> 19:59.800]  can imagine, there are real problems with it. Beyond all that fiber being left behind on the
+[19:59.800 --> 20:04.740]  battlefield, there's the fact that no matter how long it is, it's only tens of kilometers.
+[20:04.740 --> 20:10.640]  So how do you solve that? How do you really solve the jamming problem? A few weeks ago in
+[20:10.640 --> 20:16.360]  Foreign Affairs Magazine, there was an article. The author is quite famous, a four-star general.
+[20:16.740 --> 20:23.380]  and the former CIA director, he wrote an article about the autonomous battlefield. What does that
+[20:23.380 --> 20:30.040]  mean? He said, in the end, winning a war doesn't come down to how many drones a country has,
+[20:30.040 --> 20:35.580]  how many unmanned weapons. It comes down to how those unmanned weapons make decisions.
+[20:36.180 --> 20:41.600]  If, when you've detected the enemy before firing, you still need a human, a soldier,
+[20:41.600 --> 20:49.600]  to press the firing button, that operation, that reaction is already too slow. Do you understand
+[20:49.600 --> 20:55.820]  what I mean? So look at Ukraine today. The interceptor on the left was developed by Ukraine,
+[20:56.080 --> 21:02.580]  which is now helping Gulf states deal with Iran's drones. On the right are drones invented by the
+[21:02.580 --> 21:09.480]  US. What's special about these drones? First, they're AI guided. Their pilot is AI. That is,
+[21:09.480 --> 21:14.380]  When you launch one, you've given it a mission and it will carry out that mission.
+[21:15.260 --> 21:18.300]  When you send it into the air, what do they expect?
+[21:18.760 --> 21:22.300]  That contact will be lost quickly because of jamming.
+[21:22.680 --> 21:26.040]  But because you've given it an order, it will execute.
+[21:26.600 --> 21:26.900]  How?
+[21:27.600 --> 21:31.440]  It will autonomously seek out the target and destroy it.
+[21:31.880 --> 21:34.540]  After that, several scenarios are possible.
+[21:35.100 --> 21:36.120]  First, what?
+[21:36.120 --> 21:52.180]  The target it was looking for has already been destroyed. Then it will safely return. Or what? It finds another target. Once its target is destroyed, it finds another target on its own, finds another target and then destroys it. Or what?
+[21:52.180 --> 21:58.280]  or you re-establish contact with the drone and change its orders or give it a different command.
+[21:58.540 --> 22:04.300]  Do you understand what I mean? Simply put, once you've put it in the air, it executes the order
+[22:04.300 --> 22:10.440]  on its own. At the moment of dropping the bomb, you don't have to press anything again. It carries
+[22:10.440 --> 22:15.400]  out this kind of order by itself. Are you following? I think this is exactly where the
+[22:15.400 --> 22:23.380]  problem lies. Because traditionally with so-called killer robots, there has always been a red line.
+[22:23.980 --> 22:31.460]  What is that red line at the final moment when the decision to fire is made? Where does the control
+[22:31.460 --> 22:37.920]  sit? Is it with the soldier operating it or do you hand it over to AI to decide? That's the red line.
+[22:38.040 --> 22:43.260]  That's the trigger. And what did we just see? Because of how the battlefield has evolved,
+[22:43.260 --> 23:01.080]  They've developed these drones, these unmanned systems, and to deal with jamming signals, they made this arrangement. Once you launch it, it executes the mission on its own. AI is its navigator. Understand? Some people will ask, how is that even acceptable?
+[23:01.080 --> 23:26.860]  Once it's up there, it finds its own targets and opens fire on its own. Does it know who it's targeting? Does it know whether it's right or wrong? Is it acceptable? But you have to understand that in four years of war between Russia and Ukraine, what does Ukraine want most to win the war, whether it's moral, whether it's appropriate? Leave that to the academics to debate.
+[23:26.860 --> 23:43.360]  Understand? So little by little, that red line has been crossed. And that has produced what we just talked about. The killer robot's two defining traits. First, equipped with lethal weapons. Guns, bombs, whatever.
+[23:44.300 --> 23:46.640]  Second, capable of autonomous execution.
+[23:47.340 --> 23:49.740]  And the boundary keeps getting blurrier and blurrier.
+[23:50.220 --> 23:50.880]  Getting blurrier?
+[23:51.400 --> 23:57.280]  If you follow the news, recently there's been an AI company in a lawsuit with the US Department of Defense.
+[23:57.620 --> 24:03.760]  Because they're very firm, they believe that AI on the battlefield can only be allowed to go so far.
+[24:04.260 --> 24:06.280]  They think it shouldn't be allowed to act autonomously.
+[24:07.340 --> 24:11.540]  The Defense Department, of course, says we can't work with a company like that.
+[24:11.540 --> 24:25.140]  So they cancelled the contract. And now it's in court. So what can you see? This is the trend. And I believe this represents the coming third revolution in weapons of war. What makes it different from nuclear weapons?
+[24:25.140 --> 24:31.600]  The materials are very easy to obtain. You can even use 3D printers to print these weapons.
+[24:32.520 --> 24:38.320]  You may have heard a recent news story, Beijing banning certain people, banning drone flights,
+[24:38.520 --> 24:44.180]  banning drone modifications. It's very simple. All you need is to build a drone and strap
+[24:44.180 --> 24:50.280]  explosives to it, and you've got a decapitation strike capability. So unlike nuclear weapons,
+[24:50.280 --> 24:55.960]  the materials here are more widespread and far easier to proliferate. And Ukraine today,
+[24:56.080 --> 25:01.040]  if you search online, you'll find they can manufacture millions of drones per year.
+[25:01.520 --> 25:06.960]  At the start of the war, they had almost no military industry. Now they can produce millions
+[25:06.960 --> 25:13.860]  of drones a year. All right, you might ask, these weapons revolutions, the development of these
+[25:13.860 --> 25:19.760]  weapons, what does it have to do with us? In the book of Revelation in the Bible, there are
+[25:19.760 --> 25:25.980]  descriptions of future disasters. While we were singing earlier, I had a thought, because the
+[25:25.980 --> 25:32.640]  Lord has saved us and he will save us still. He saved us from sin and he will save us from disaster
+[25:32.640 --> 25:38.240]  as well. Speaking of future disasters, one of the things mentioned is the massive loss of life.
+[25:38.580 --> 25:43.900]  This refers especially to two moments. The first is the opening of the seals, the opening of the
+[25:43.900 --> 25:50.200]  early seals, as it says here, when the fourth seal was opened, I heard the fourth living creature say,
+[25:50.380 --> 25:56.460]  come, and I looked, and behold, a pale horse, and the name of the one riding it was Death.
+[25:57.560 --> 26:04.820]  Hades followed with him. Authority was given to them to kill with sword, famine, plague,
+[26:04.820 --> 26:11.480]  and wild beasts, killing a quarter of the people of the earth. Before that, there were three horses,
+[26:11.480 --> 26:17.020]  a white horse, a red horse and a black horse. That's actually an echo of what came earlier.
+[26:17.640 --> 26:24.640]  The red horse representing the sword, that is, war. The black horse, what does it represent?
+[26:24.920 --> 26:30.880]  Famine. And there's plague too. I wonder, these plagues might possibly even have some connection
+[26:30.880 --> 26:36.920]  to the military. For example, look at COVID-19. All along, some people didn't want anyone tracing
+[26:36.920 --> 26:43.200]  its origin. But there's no shortage of evidence that it likely came from a laboratory. So, you
+[26:43.200 --> 26:49.580]  know, conventional weapons, we just talked about some. Unconventional weapons, besides nuclear,
+[26:49.580 --> 26:57.620]  there are also biological weapons. This passage talks about sword, famine, plague, and wild beasts
+[26:57.620 --> 27:04.340]  killing a quarter of the earth. Now, the world has over 8 billion people, a quarter dying,
+[27:04.340 --> 27:12.040]  that's 2 billion people. China has 1.3 billion, the US just over 300 million. Even adding up the
+[27:12.040 --> 27:18.640]  populations of the US and China, it still wouldn't reach that figure. Do you understand? Why would so
+[27:18.640 --> 27:25.580]  many people die? The Bible also speaks of a great fire in that war. A third of the earth burned,
+[27:25.580 --> 27:31.900]  all the grass burned, a third of the sea struck, a third of the sun, moon and stars affected.
+[27:31.900 --> 27:50.200]  I don't believe this means the sun and moon themselves have problems. Rather, it's the atmosphere. The atmosphere has been compromised. What could cause a third of the earth, a third of the sea, and a third of the atmosphere to be affected? I think it's very likely connected to nuclear war.
+[27:50.740 --> 27:53.120]  Next week, we'll talk more about this aspect.
+[27:53.540 --> 27:53.780]  Why?
+[27:54.280 --> 27:57.040]  Because you might think the Bible is the Word of God,
+[27:57.240 --> 27:59.080]  but the Bible is very old.
+[27:59.640 --> 28:01.280]  Since the Bible is so ancient,
+[28:01.780 --> 28:04.260]  how could it describe these modern terms?
+[28:04.620 --> 28:06.980]  Understand, these modern situations,
+[28:07.380 --> 28:09.020]  it can actually describe them.
+[28:09.020 --> 28:11.500]  We can dig deeper into this next time.
+[28:11.920 --> 28:14.440]  But at least you know that in January and February,
+[28:15.000 --> 28:18.240]  remember how the US was still talking about a topic,
+[28:18.240 --> 28:23.380]  wanting to acquire Greenland to complete its Golden Dome defence plan.
+[28:23.960 --> 28:28.700]  Some people might think nuclear missiles fly east to west or west to east,
+[28:29.040 --> 28:33.360]  but have you considered they can also fly northward across the North Pole?
+[28:33.960 --> 28:35.540]  The route is much shorter.
+[28:36.160 --> 28:41.340]  For example, certain airline routes today, flight routes also cross over the Arctic,
+[28:41.340 --> 28:44.420]  so all of this connects back to nuclear weapons.
+[28:45.400 --> 28:47.600]  Recently, there have been many such things.
+[28:47.600 --> 28:52.120]  about nuclear war, nuclear missile interception, and so on.
+[28:52.600 --> 28:53.920]  Coming back to that saying,
+[28:54.180 --> 28:58.340]  every weapon humans have invented has eventually been used.
+[28:58.340 --> 29:02.600]  And today's nuclear bombs are more than a thousand times more powerful
+[29:02.600 --> 29:05.900]  than those dropped on Hiroshima and Nagasaki.
+[29:06.200 --> 29:09.340]  All right, what about the killer robots you mentioned?
+[29:09.580 --> 29:14.300]  In the Bible, Revelation chapter 9, there's a description like this.
+[29:14.300 --> 29:19.660]  It speaks of several angels sounding their trumpets, seven angels in all.
+[29:20.200 --> 29:26.460]  When the sixth angel sounded, he said a voice came from before God, from the four horns of the golden altar.
+[29:27.100 --> 29:28.200]  And what did it say?
+[29:28.640 --> 29:32.360]  It said to release the four angels who had been bound at the Euphrates River.
+[29:32.900 --> 29:34.920]  And those four angels were released.
+[29:35.540 --> 29:42.200]  They had been prepared for a specific year, month, day and hour to kill a third of mankind.
+[29:42.200 --> 30:05.420]  And the armies of horsemen numbered 200 million. I heard their number. The second time massive death is mentioned is right here, killing a third of mankind. If you do the math, first the four horsemen kill a quarter of humanity. The world goes from 8 billion to 6 billion, 2 billion dead. Then a third of the remaining 6 billion die, another 2 billion gone.
+[30:05.420 --> 30:08.480]  By this point, half the world's population is gone.
+[30:09.200 --> 30:12.180]  And let me tell you what point in time is this.
+[30:12.400 --> 30:15.300]  This is only the halfway mark of the seven-year tribulation.
+[30:15.880 --> 30:18.000]  The final disasters haven't even happened yet.
+[30:18.500 --> 30:20.880]  The last three and a half years haven't come.
+[30:21.740 --> 30:25.480]  Speaking of those last three and a half years, what does the Bible say?
+[30:25.800 --> 30:28.980]  It says, if not for the sake of the elect, for the sake of Israel,
+[30:29.440 --> 30:32.500]  if those days were not cut short, no flesh would be saved.
+[30:32.500 --> 30:51.040]  So you realize the disasters in the earlier period, the scale of the killing is already severe, and the four seals we just mentioned. Those happen shortly after the seven-year tribulation begins, after the white horse, and here, when the sixth angel sounds his trumpet.
+[30:51.040 --> 30:57.840]  it. What does that mean? You could say, after the four horses, later there's an Antichrist,
+[30:58.180 --> 31:03.540]  the kingdom of the beast emerges, people are required to worship him, and dissenters are
+[31:03.540 --> 31:10.320]  slaughtered. A killing of dissenters. And in this passage, you'll notice, besides killing a third of
+[31:10.320 --> 31:16.660]  humanity, there are two other striking features. First, you notice it specifies a particular year,
+[31:16.660 --> 31:22.720]  month, day, and hour. Very curious. It doesn't say where the soldiers come from, where they're going,
+[31:23.120 --> 31:28.540]  what war they're fighting. Many people confuse this passage with Armageddon or other events,
+[31:28.780 --> 31:36.380]  but it isn't. Look carefully. There are significant hints in the text. What does it say? It says it
+[31:36.380 --> 31:41.580]  originates from four angels released at the Euphrates River. There's a connection to the
+[31:41.580 --> 31:48.160]  spiritual realm. And you know the Euphrates is in modern-day Iraq, also the region of ancient
+[31:48.160 --> 31:57.260]  Babylon. Back to that original place of rebellion. And notice this. A specific year, month, day and
+[31:57.260 --> 32:05.100]  hour killing a third of mankind. Do you see it? It doesn't look like a war. It looks more like
+[32:05.100 --> 32:12.280]  the execution of an order, like the execution of a command. Recently, Donald Trump in a national
+[32:12.280 --> 32:19.140]  address a few days ago said something like this. In modern history, no war has ever lasted just a
+[32:19.140 --> 32:26.120]  single day. The current Iran war has already gone over 30 days, a whole month. Modern wars never
+[32:26.120 --> 32:32.880]  last a single day, let alone half a day. And here it specifies a particular day and a particular
+[32:32.880 --> 32:39.200]  hour. So doesn't it look like the execution of a command? And finding targets to execute a command,
+[32:39.520 --> 32:44.460]  that's very easy. For example, you may have seen the recent news about Facebook, Meta,
+[32:44.460 --> 32:50.320]  and other platforms being fined by the courts for using algorithms to learn what people like
+[32:50.320 --> 32:56.120]  and feed them content to keep them addicted. Actually, with that kind of data, you can know
+[32:56.120 --> 33:01.640]  exactly what people are doing online, what kind of person they roughly are, what they like to watch,
+[33:01.640 --> 33:08.000]  their personal preferences, their political leanings, all of it. So it's very easy to
+[33:08.000 --> 33:14.560]  identify targets. Another point worth mentioning, it says the cavalry numbered 200 million.
+[33:15.060 --> 33:21.140]  In the world today, which country has a 200 million strong army? None. Understand? But
+[33:21.140 --> 33:27.160]  if you think about the robots we just talked about, killer robots, having that many isn't
+[33:27.160 --> 33:35.180]  hard at all. Why? 200 million. But is the goal to kill a third? A third would be 2 billion.
+[33:35.780 --> 33:42.620]  One robot to 10 people. Understand? So it's absolutely possible. And what does that cavalry
+[33:42.620 --> 33:49.060]  look like in the description? In the vision, the riders sit on horses, wearing breastplates.
+[33:49.720 --> 33:56.080]  Fire, breastplates as red as fire, hyacinth blue and sulfur yellow. The horses' heads were like
+[33:56.080 --> 34:03.380]  lion's heads. Like lion's heads. I know everyone's getting hungry. It's lunchtime. But lion's heads
+[34:03.380 --> 34:10.040]  here isn't the Shanghai dish. Fire, smoke, and sulfur came out of the horse's mouths. These three
+[34:10.040 --> 34:15.220]  things killed a third of mankind. The horse's power was in their mouths and in their tails.
+[34:15.600 --> 34:21.600]  I don't know what that is. That's what the Apostle John saw back then. Personally looking around at
+[34:21.600 --> 34:28.640]  how things are developing today. This US-Israel-Iran war has many implications politically
+[34:28.640 --> 34:35.740]  for Europe, for NATO, for Israel's place in the Middle East, those we can leave for another time.
+[34:35.740 --> 34:44.740]  But on the matter of weapons, what can we see? The US economy, US technology, US military power
+[34:44.740 --> 34:51.140]  are all formidable. If you wanted to take on the United States, it seems the only option would be
+[34:51.140 --> 34:57.920]  nuclear weapons. And when the US and the rival powers all step down together, you find there
+[34:57.920 --> 35:04.080]  aren't many remaining powers. Maybe just Europe, understand? And when that happens, a hostile power
+[35:04.080 --> 35:09.720]  will arise. The kingdom of the Antichrist will appear. He'll demand worship, refuse, and you die.
+[35:10.080 --> 35:14.560]  That's the scene described under the sixth trumpet. I think the weapons part of the picture,
+[35:14.560 --> 35:22.720]  you can already see the early signs. So what lies ahead? Today I've tried through the lens of
+[35:22.720 --> 35:29.860]  weapons to tell you about this war. Next week we'll talk about what's ahead. That's not just
+[35:29.860 --> 35:37.640]  current events analysis. In the Bible, how does it describe what's coming? We'll see each other again
+[35:37.640 --> 35:41.020]  next week, okay? That's all I have for today.
