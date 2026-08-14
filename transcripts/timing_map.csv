@@ -1,0 +1,801 @@
+seg,start,end,slot_s,gap_after_s,est_speech_s,headroom_s,speedup_x,chars,text
+1,0.00,5.60,5.60,0.00,1.64,3.96,1.000,26,"Over the past month or so,"
+2,5.60,8.00,2.40,0.00,2.84,-0.44,1.182,45,I think many people have been concerned about
+3,8.00,10.76,2.76,0.00,2.77,-0.01,1.005,44,"the war between the U.S., Israel, and Iran —"
+4,10.76,14.00,3.24,0.00,3.03,0.21,1.000,48,a conflict that has shaken the global situation.
+5,14.00,18.00,4.00,0.00,2.52,1.48,1.000,40,"Today I'd like to start with this topic,"
+6,18.00,20.00,2.00,0.00,1.70,0.30,1.000,27,but from a different angle.
+7,20.00,25.00,5.00,0.00,2.46,2.54,1.000,39,I think war serves as a kind of stage —
+8,25.00,31.86,6.86,0.00,3.85,3.01,1.000,61,one where you can see how astonishing human invention can be.
+9,31.86,36.90,5.04,0.00,3.28,1.76,1.000,52,"In this war, you see all kinds of different weapons."
+10,36.90,39.66,2.76,0.00,2.96,-0.20,1.074,47,"I don't know if you've been following the news,"
+11,39.66,45.02,5.36,0.00,3.28,2.08,1.000,52,"but in the upper-left corner here, that's the MOAB —"
+12,45.02,47.46,2.44,0.00,1.51,0.93,1.000,24,the Mother of All Bombs.
+13,47.46,54.70,7.24,0.00,3.53,3.71,1.000,56,It's the most powerful bomb in the conventional arsenal.
+14,54.70,62.52,7.82,0.00,4.10,3.72,1.000,65,"Even just to drop it, they need a C-130 Hercules transport plane,"
+15,62.52,65.14,2.62,0.00,2.33,0.29,1.000,37,because it's too heavy and too large.
+16,65.14,67.44,2.30,0.00,1.51,0.79,1.000,24,This Mother of All Bombs
+17,67.44,69.10,1.66,0.00,2.90,-1.24,1.747,46,is the strongest in the conventional category.
+18,69.10,72.92,3.82,0.00,1.89,1.93,1.000,30,"If you want to go beyond that,"
+19,72.92,75.78,2.86,0.00,2.90,-0.04,1.014,46,you have to step into unconventional weapons —
+20,75.78,78.18,2.40,0.00,1.83,0.57,1.000,29,"nuclear weapons, for example."
+21,78.18,80.20,2.02,0.00,2.21,-0.19,1.092,35,That's pushing things to the limit.
+22,80.20,83.20,3.00,0.00,2.33,0.67,1.000,37,Next to it is the bunker-buster bomb.
+23,83.20,87.68,4.48,0.00,3.40,1.08,1.000,54,"As you know, Iran has many underground missile cities,"
+24,87.68,89.90,2.22,0.00,1.95,0.27,1.000,31,underground nuclear facilities.
+25,89.90,95.98,6.08,0.00,3.40,2.68,1.000,54,The bomber that drops these bunker busters is the B-2.
+26,95.98,99.12,3.14,0.00,1.89,1.25,1.000,30,The picture at the bottom left
+27,99.12,100.68,1.56,0.00,0.88,0.68,1.000,14,is a torpedo —
+28,100.68,107.78,7.10,0.00,1.77,5.33,1.000,28,a Mk 48 heavyweight torpedo.
+29,107.78,113.04,5.26,0.00,2.90,2.36,1.000,46,"You might still remember, in the Indian Ocean,"
+30,113.04,118.32,5.28,0.00,4.29,0.99,1.000,68,an Iranian frigate that had just finished joint exercises with India
+31,118.32,123.50,5.18,0.00,3.85,1.33,1.000,61,was returning to Iran when a U.S. submarine sank it en route.
+32,123.50,127.72,4.22,0.00,4.60,-0.38,1.091,73,"That frigate wasn't a major warship, and it wasn't particularly advanced."
+33,127.72,130.56,2.84,0.00,3.03,-0.19,1.066,48,A missile would have been enough to take it out.
+34,130.56,135.60,5.04,0.00,4.04,1.00,1.000,64,"With a missile, you'd at least give the crew a chance to escape."
+35,135.60,138.28,2.68,0.00,2.65,0.03,1.000,42,But they actually used this heavy torpedo.
+36,138.28,141.36,3.08,0.00,2.33,0.75,1.000,37,You can find the footage on YouTube —
+37,141.36,143.36,2.00,0.00,1.83,0.17,1.000,29,the ship went down very fast.
+38,143.36,146.74,3.38,0.00,2.77,0.61,1.000,44,"By the time Sri Lanka's old vessels arrived,"
+39,146.74,148.74,2.00,0.00,1.64,0.36,1.000,26,the ship had already sunk.
+40,148.74,156.10,7.36,0.00,2.77,4.59,1.000,44,So why use a heavyweight torpedo against it?
+41,156.10,159.54,3.44,0.00,3.53,-0.09,1.026,56,The story is that on board the U.S. submarine that day —
+42,159.54,162.44,2.90,0.00,1.58,1.32,1.000,25,a Los Angeles-class sub —
+43,162.44,167.56,5.12,0.00,3.85,1.27,1.000,61,there were two Australian naval officers undergoing training.
+44,167.56,172.06,4.50,0.00,3.78,0.72,1.000,60,"You know, Australia bought nuclear submarines from the U.S.,"
+45,172.06,175.10,3.04,0.00,2.27,0.77,1.000,36,"and in doing so, they tacitly agreed"
+46,175.10,177.86,2.76,0.00,4.16,-1.40,1.508,66,"that if anything happens at the first island chain in the Pacific,"
+47,177.86,182.36,4.50,0.00,1.95,2.55,1.000,31,Australia would join the fight.
+48,182.36,185.36,3.00,0.00,2.14,0.86,1.000,34,"So inside that submarine that day,"
+49,185.36,190.68,5.32,0.00,2.71,2.61,1.000,43,it was effectively combat training as well.
+50,190.68,194.44,3.76,0.00,2.65,1.11,1.000,42,"And next to that, another impressive one —"
+51,194.44,196.82,2.38,0.00,1.89,0.49,1.000,30,it's called the graphite bomb.
+52,196.82,202.72,5.90,0.00,3.22,2.68,1.000,51,They threatened to bomb Iran's power plant with it.
+53,202.72,207.68,4.96,0.00,3.03,1.93,1.000,48,Notice — it's not a weapon that harms civilians.
+54,207.68,210.24,2.56,0.00,2.27,0.29,1.000,36,Because they noticed one phenomenon:
+55,210.24,214.44,4.20,0.00,3.28,0.92,1.000,52,"in some rural areas, in places with very few people,"
+56,214.44,216.44,2.00,0.00,2.77,-0.77,1.387,44,the electricity usage was surprisingly high.
+57,216.44,219.62,3.18,0.00,3.66,-0.48,1.150,58,"That usually means there are nuclear facilities behind it,"
+58,219.62,221.86,2.24,0.00,2.02,0.22,1.000,32,or maybe military installations.
+59,221.86,224.08,2.22,0.00,1.26,0.96,1.000,20,So the U.S. demand —
+60,224.08,227.60,3.52,0.00,2.40,1.12,1.000,38,their threat to bomb the power plant —
+61,227.60,230.48,2.88,0.00,4.04,-1.16,1.401,64,"but if you actually destroyed the plant, that would be terrible:"
+62,230.48,232.36,1.88,0.00,2.90,-1.02,1.543,46,it would affect many people and civilian life.
+63,232.36,234.24,1.88,0.00,1.89,-0.01,1.006,30,So what is this graphite bomb?
+64,234.24,236.44,2.20,0.00,1.58,0.62,1.000,25,"The moment it's deployed,"
+65,236.44,240.68,4.24,0.00,3.15,1.09,1.000,50,"the graphite itself causes massive short-circuits,"
+66,240.68,242.38,1.70,0.00,2.27,-0.57,1.335,36,which knocks out power transmission.
+67,242.38,246.38,4.00,0.00,3.47,0.53,1.000,55,But the power plant itself and the generating equipment
+68,246.38,248.18,1.80,0.00,1.13,0.67,1.000,18,are not destroyed.
+69,248.18,252.02,3.84,0.00,2.27,1.57,1.000,36,You can see — isn't that remarkable?
+70,252.02,255.60,3.58,0.00,2.33,1.25,1.000,37,Actually these warfare technologies —
+71,255.60,258.68,3.08,0.00,1.89,1.19,1.000,30,"take U.S. drones, for example."
+72,258.68,260.22,1.54,0.00,1.01,0.53,1.000,16,The Lucas drone.
+73,260.22,263.02,2.80,0.00,3.34,-0.54,1.193,53,"Then there are unmanned speedboats, unmanned vessels."
+74,263.02,267.38,4.36,0.00,3.72,0.64,1.000,59,In the lower-left corner you can see one called Starshield.
+75,267.38,270.20,2.82,0.00,1.51,1.31,1.000,24,That's also from SpaceX.
+76,270.20,272.76,2.56,0.00,1.83,0.73,1.000,29,Starlink is for civilian use.
+77,272.76,275.58,2.82,0.00,1.95,0.87,1.000,31,Starshield is for military use.
+78,275.58,278.84,3.26,0.00,3.28,-0.02,1.006,52,"So if you take apart the nose cones of those drones,"
+79,278.84,281.18,2.34,0.00,1.83,0.51,1.000,29,"you'll find receivers inside,"
+80,281.18,284.40,3.22,0.00,2.84,0.38,1.000,45,and those tap into Starshield for navigation.
+81,284.40,288.26,3.86,0.00,1.89,1.97,1.000,30,"And in the upper-right corner,"
+82,288.26,293.08,4.82,0.00,1.70,3.12,1.000,27,that one is a laser cannon.
+83,293.08,296.86,3.78,0.00,1.77,2.01,1.000,28,"Actually, since around 2023,"
+84,296.86,300.62,3.76,0.00,4.54,-0.78,1.207,72,one thing that's become very popular is the so-called saturation attack.
+85,300.62,305.04,4.42,0.00,2.84,1.58,1.000,45,"You use cheap weapons — drones, for instance,"
+86,305.04,308.02,2.98,0.00,1.83,1.15,1.000,29,or some inexpensive missiles.
+87,308.02,310.42,2.40,0.00,1.32,1.08,1.000,21,And here's the thing:
+88,310.42,314.20,3.78,0.00,3.78,-0.00,1.001,60,the missiles used to shoot them down are far more expensive.
+89,314.20,317.00,2.80,0.00,2.65,0.15,1.000,42,You've probably heard the 1-to-100 ratio —
+90,317.00,319.96,2.96,0.00,2.77,0.19,1.000,44,meaning the value of one interceptor missile
+91,319.96,322.00,2.04,0.00,1.95,0.09,1.000,31,is 100 times that of one drone.
+92,322.00,324.90,2.90,0.00,2.46,0.44,1.000,39,"So while the enemy is spending pennies,"
+93,324.90,326.82,1.92,0.00,1.70,0.22,1.000,27,you're getting drained dry.
+94,326.82,328.02,1.20,0.00,1.01,0.19,1.000,16,So you can see —
+95,328.02,333.62,5.60,0.00,3.78,1.82,1.000,60,"in this conflict, you're seeing a lot of very cheap weapons."
+96,333.62,340.62,7.00,0.00,1.58,5.42,1.000,25,"Looking at these weapons,"
+97,340.62,345.58,4.96,0.00,2.84,2.12,1.000,45,you can see the technology is quite advanced.
+98,345.58,349.34,3.76,0.00,3.28,0.48,1.000,52,Someone once said: every weapon humans have invented
+99,349.34,353.66,4.32,0.00,2.90,1.42,1.000,46,has eventually been deployed on a battlefield.
+100,353.66,356.92,3.26,0.00,2.71,0.55,1.000,43,"And in fact, throughout the history of war,"
+101,356.92,359.60,2.68,0.00,2.21,0.47,1.000,35,weapons have gone through several —
+102,359.60,362.52,2.92,0.00,2.46,0.46,1.000,39,"three major revolutions, you could say."
+103,362.52,366.52,4.00,0.00,3.03,0.97,1.000,48,Let me walk through them as a kind of framework.
+104,366.52,369.48,2.96,0.00,2.52,0.44,1.000,40,"If someone asked you, in all of history,"
+105,369.48,373.96,4.48,0.00,1.89,2.59,1.000,30,which was the greatest empire?
+106,373.96,376.40,2.44,0.00,3.34,-0.90,1.369,53,You might say the Mongol Empire — and you'd be right.
+107,376.40,379.74,3.34,0.00,2.71,0.63,1.000,43,"Because across the vast expanse of Eurasia,"
+108,379.74,383.32,3.58,0.00,4.41,-0.83,1.233,70,the Mongol Empire stretched across an enormous swath of the continent.
+109,383.32,386.82,3.50,0.00,1.77,1.73,1.000,28,Why were they so formidable?
+110,386.82,391.58,4.76,0.00,3.09,1.67,1.000,49,The Mongols' greatest strength was their cavalry.
+111,391.58,393.54,1.96,0.00,1.64,0.32,1.000,26,I think in this painting —
+112,393.54,394.66,1.12,0.00,1.51,-0.39,1.351,24,"when I found this image,"
+113,394.66,396.66,2.00,0.00,2.33,-0.33,1.166,37,I felt that the person who painted it
+114,396.66,398.84,2.18,0.00,2.33,-0.15,1.070,37,really understood the Mongol cavalry.
+115,398.84,399.84,1.00,0.00,0.25,0.75,1.000,4,Why?
+116,399.84,404.72,4.88,0.00,3.78,1.10,1.000,60,Because one of the Mongols' deadliest assets was their bow —
+117,404.72,406.72,2.00,0.00,1.45,0.55,1.000,23,the famous recurve bow.
+118,406.72,410.06,3.34,0.00,2.02,1.32,1.000,32,See how both ends curve outward?
+119,410.06,414.14,4.08,0.00,2.46,1.62,1.000,39,"Compared with bows of the 13th century,"
+120,414.14,415.64,1.50,0.00,2.58,-1.08,1.723,41,it was three or four times more powerful.
+121,415.64,419.16,3.52,0.00,2.33,1.19,1.000,37,At close range it could pierce armor.
+122,419.16,421.84,2.68,0.00,2.02,0.66,1.000,32,The other thing was the stirrup.
+123,421.84,426.12,4.28,0.00,3.47,0.81,1.000,55,The foothold you step into when mounting — the stirrup.
+124,426.12,429.02,2.90,0.00,2.40,0.50,1.000,38,"The Mongols didn't invent the stirrup,"
+125,429.02,433.88,4.86,0.00,2.33,2.53,1.000,37,but they pushed its use to the limit.
+126,433.88,436.54,2.66,0.00,1.77,0.89,1.000,28,"Why? Because of the stirrup,"
+127,436.54,439.96,3.42,0.00,2.21,1.21,1.000,35,"the rider could stand on his horse,"
+128,439.96,443.38,3.42,0.00,2.46,0.96,1.000,39,"and shoot arrows in a full 360 degrees,"
+129,443.38,449.88,6.50,0.00,3.59,2.91,1.000,57,"dominating his opponent. Combined with that powerful bow,"
+130,449.88,453.38,3.50,0.00,3.22,0.28,1.000,51,they had a famous tactic called the Parthian shot —
+131,453.38,456.54,3.16,0.00,3.78,-0.62,1.197,60,"the moment you thought they were retreating and chased them,"
+132,456.54,462.52,5.98,0.00,2.71,3.27,1.000,43,they'd turn around and put an arrow in you.
+133,462.52,465.56,3.04,0.00,1.89,1.15,1.000,30,That's why in the 13th century
+134,465.56,469.56,4.00,0.00,4.41,-0.41,1.103,70,the Mongols swept across everything — no one could stand against them.
+135,469.56,477.20,7.64,0.00,2.58,5.06,1.000,41,So what was the first weapons revolution?
+136,477.20,481.84,4.64,0.00,3.40,1.24,1.000,54,It was gunpowder — applying gunpowder to military use.
+137,481.84,489.38,7.54,0.00,2.65,4.89,1.000,42,"That gave us firearms, and also artillery."
+138,489.38,492.32,2.94,0.00,3.28,-0.34,1.115,52,"So if someone asks you which was the largest empire,"
+139,492.32,497.66,5.34,0.00,2.33,3.01,1.000,37,"by sheer area, it wasn't the Mongols."
+140,497.66,500.10,2.44,0.00,2.40,0.04,1.000,38,By area — and you know this one well —
+141,500.10,503.68,3.58,0.00,4.10,-0.52,1.145,65,it was the empire on which the sun never set: the British Empire.
+142,503.68,505.78,2.10,0.00,0.69,1.41,1.000,11,"In history,"
+143,505.78,510.20,4.42,0.00,3.15,1.27,1.000,50,"by total area, the British Empire was the largest."
+144,510.20,512.50,2.30,0.00,1.83,0.47,1.000,29,That was the first revolution
+145,512.50,519.30,6.80,0.00,1.64,5.16,1.000,26,in warfare and in weapons.
+146,519.30,523.70,4.40,0.00,2.71,1.69,1.000,43,"If someone says to you ""rare, medium-rare,"""
+147,523.70,527.02,3.32,0.00,2.27,1.05,1.000,36,"or ""well done"" — what comes to mind?"
+148,527.02,530.64,3.62,0.00,3.97,-0.35,1.097,63,You'd probably think someone's teaching you how to grill steak.
+149,530.64,532.52,1.88,0.00,2.46,-0.58,1.308,39,"But actually, this is military jargon —"
+150,532.52,535.06,2.54,0.00,1.07,1.47,1.000,17,a technical term.
+151,535.06,539.06,4.00,0.00,3.72,0.28,1.000,59,"It refers to one major country — namely, the United States."
+152,539.06,541.94,2.88,0.00,2.71,0.17,1.000,43,"If the U.S. ever came under nuclear attack,"
+153,541.94,545.46,3.52,0.00,2.77,0.75,1.000,44,these are the response options on the table.
+154,545.46,549.70,4.24,0.00,2.02,2.22,1.000,32,"Rare, medium-rare, or well done?"
+155,549.70,556.16,6.46,0.00,3.97,2.49,1.000,63,What they're really talking about isn't steak — it's the Earth.
+156,556.16,559.60,3.44,0.00,2.33,1.11,1.000,37,"So if you're hit by a nuclear strike,"
+157,559.60,562.82,3.22,0.00,3.15,0.07,1.000,50,what's the response? Mutually assured destruction?
+158,562.82,568.14,5.32,0.00,1.77,3.55,1.000,28,Or some other kind of reply?
+159,568.14,572.54,4.40,0.00,2.71,1.69,1.000,43,So the second revolution in weapons history
+160,572.54,577.06,4.52,0.00,2.40,2.12,1.000,38,was the invention of the nuclear bomb.
+161,577.06,579.68,2.62,0.00,2.27,0.35,1.000,36,"After the nuclear bomb was invented,"
+162,579.68,584.06,4.38,0.00,3.03,1.35,1.000,48,it wasn't long before two were dropped on Japan.
+163,584.06,588.58,4.52,0.00,3.59,0.93,1.000,57,And America has remained extremely powerful — even today.
+164,588.58,594.76,6.18,0.00,2.90,3.28,1.000,46,Nuclear weapons have two distinctive features.
+165,594.76,598.84,4.08,0.00,1.83,2.25,1.000,29,"First, you need nuclear fuel."
+166,598.84,602.52,3.68,0.00,3.40,0.28,1.000,54,And that nuclear fuel is fundamentally hard to obtain.
+167,602.52,607.64,5.12,0.00,4.35,0.77,1.000,69,"For instance, Iran today desperately wants to become a nuclear power."
+168,607.64,613.70,6.06,0.00,3.09,2.97,1.000,49,But refining and obtaining that fuel is not easy.
+169,613.70,618.26,4.56,0.00,4.73,-0.17,1.037,75,"On top of that, there's the international Nuclear Non-Proliferation Treaty."
+170,618.26,621.60,3.34,0.00,1.39,1.95,1.000,22,"So from 1945 to today,"
+171,621.60,626.12,4.52,0.00,2.77,1.75,1.000,44,only ten countries possess nuclear weapons —
+172,626.12,628.74,2.62,0.00,1.77,0.85,1.000,28,"that is, nuclear capability."
+173,628.74,632.62,3.88,0.00,2.46,1.42,1.000,39,One thing to note: the last two added —
+174,632.62,636.26,3.64,0.00,3.66,-0.02,1.005,58,I've marked their dates here. I don't know if you can see.
+175,636.26,639.18,2.92,0.00,3.09,-0.17,1.058,49,The last two countries to join the nuclear club —
+176,639.18,642.70,3.52,0.00,2.52,1.00,1.000,40,"the latest one was North Korea, in 2006."
+177,642.70,647.30,4.60,0.00,2.33,2.27,1.000,37,And the one before that was Pakistan.
+178,647.30,650.70,3.40,0.00,1.89,1.51,1.000,30,"Today's gathering has a theme,"
+179,650.70,653.02,2.32,0.00,2.14,0.18,1.000,34,"and it's called ""machine killers,"""
+180,653.02,655.02,2.00,0.00,1.20,0.80,1.000,19,"or ""killer robots."""
+181,655.02,657.62,2.60,0.00,1.45,1.15,1.000,23,Robots in everyday life
+182,657.62,660.30,2.68,0.00,2.77,-0.09,1.035,44,are already affecting everyone in many ways.
+183,660.30,665.26,4.96,0.00,3.22,1.74,1.000,51,"For example, here, in the upper-left, that's Waymo."
+184,665.26,667.10,1.84,0.00,2.58,-0.74,1.405,41,Have any of you ridden in one over there?
+185,667.10,669.30,2.20,0.00,1.77,0.43,1.000,28,"In LA downtown, for example,"
+186,669.30,671.10,1.80,0.00,1.83,-0.03,1.016,29,you'll see them soon enough —
+187,671.10,674.10,3.00,0.00,1.58,1.42,1.000,25,those self-driving taxis.
+188,674.10,675.98,1.88,0.00,1.70,0.18,1.000,27,Waymo is easy to recognize:
+189,675.98,679.28,3.30,0.00,2.27,1.03,1.000,36,sensors all over the roof and sides.
+190,679.28,683.86,4.58,0.00,3.03,1.55,1.000,48,The one next to it — that's like Shake Shack's —
+191,683.86,690.24,6.38,0.00,2.46,3.92,1.000,39,robots that deliver documents and food.
+192,690.24,693.86,3.62,0.00,2.46,1.16,1.000,39,"Some robots — for example, the Optimus,"
+193,693.86,697.86,4.00,0.00,1.07,2.93,1.000,17,which is Tesla's.
+194,697.86,699.96,2.10,0.00,2.33,-0.23,1.111,37,There's been recent news in the U.S.:
+195,699.96,702.96,3.00,0.00,2.90,0.10,1.000,46,they've started putting it behind the counter.
+196,702.96,706.58,3.62,0.00,3.53,0.09,1.000,56,"For instance, there's a place in LA called Diamond Bar —"
+197,706.58,709.56,2.98,0.00,2.52,0.46,1.000,40,their City Hall has one of these robots.
+198,709.56,711.04,1.48,0.00,1.70,-0.22,1.150,27,You walk up and it asks you
+199,711.04,713.10,2.06,0.00,1.64,0.42,1.000,26,what it can help you with.
+200,713.10,719.02,5.92,0.00,2.84,3.08,1.000,45,Robots are even helping with law enforcement.
+201,719.02,723.56,4.54,0.00,2.14,2.40,1.000,34,A few days ago I saw this vehicle.
+202,723.56,726.00,2.44,0.00,3.47,-1.03,1.421,55,I don't know if you've been following this technology —
+203,726.00,728.00,2.00,0.00,1.58,0.42,1.000,25,it's called the Cybercab.
+204,728.00,731.72,3.72,0.00,1.83,1.89,1.000,29,"Now, Waymo belongs to Google,"
+205,731.72,735.30,3.58,0.00,2.14,1.44,1.000,34,and the Cybercab belongs to Tesla.
+206,735.30,737.30,2.00,0.00,1.77,0.23,1.000,28,So I have to ask a question:
+207,737.30,739.96,2.66,0.00,2.27,0.39,1.000,36,"if there's nothing special about it,"
+208,739.96,741.82,1.86,0.00,1.89,-0.03,1.017,30,"it's just a self-driving taxi,"
+209,741.82,745.26,3.44,0.00,2.65,0.79,1.000,42,then what's so special about the Cybercab?
+210,745.26,746.86,1.60,0.00,1.07,0.53,1.000,17,Have you noticed?
+211,746.86,750.76,3.90,0.00,2.40,1.50,1.000,38,I saw one being tested on the street —
+212,750.76,753.06,2.30,0.00,1.64,0.66,1.000,26,and here's what's special:
+213,753.06,755.90,2.84,2.10,1.58,1.26,1.000,25,it has no steering wheel.
+214,758.00,760.30,2.30,0.00,1.32,0.98,1.000,21,And no pedals either.
+215,760.30,761.90,1.60,0.00,2.27,-0.67,1.419,36,If you think of the Dragon capsule —
+216,761.90,766.90,5.00,0.00,4.67,0.33,1.000,74,SpaceX's spacecraft that takes people to the International Space Station —
+217,766.90,768.30,1.40,0.00,1.83,-0.43,1.306,29,it's basically the same idea.
+218,768.30,771.00,2.70,0.00,3.03,-0.33,1.121,48,You get on board and there's just a touchscreen.
+219,771.00,773.70,2.70,0.00,1.77,0.93,1.000,28,Just a touchscreen in there.
+220,773.70,775.30,1.60,0.00,1.58,0.02,1.000,25,No steering wheel at all.
+221,775.30,778.00,2.70,2.20,3.59,-0.89,1.331,57,"So if something goes wrong, you wouldn't know what to do."
+222,780.20,783.80,3.60,0.00,2.58,1.02,1.000,41,Today we're talking about killer robots —
+223,783.80,784.80,1.00,0.00,0.95,0.05,1.000,15,"""Killer Robot."""
+224,784.80,787.20,2.40,0.00,2.27,0.13,1.000,36,That's actually the colloquial term.
+225,787.20,789.60,2.40,0.00,1.64,0.76,1.000,26,What's the technical name?
+226,789.60,794.62,5.02,0.00,2.40,2.62,1.000,38,"It's ""Lethal Autonomous Weapon"" (LAW)."
+227,794.62,798.68,4.06,0.00,2.14,1.92,1.000,34,Lethal — and autonomous — weapons.
+228,798.68,800.38,1.70,0.00,2.27,-0.57,1.335,36,"As the name suggests, it's a weapon,"
+229,800.38,803.28,2.90,0.00,1.77,1.13,1.000,28,but it has two key elements.
+230,803.28,807.80,4.52,0.00,2.65,1.87,1.000,42,"First, it's equipped with lethal weaponry."
+231,807.80,809.04,1.24,0.00,1.45,-0.21,1.169,23,And the second element?
+232,809.04,813.02,3.98,0.00,3.03,0.95,1.000,48,It's autonomous — we'll get to that in a moment.
+233,813.02,815.38,2.36,0.00,1.20,1.16,1.000,19,So the killer robot
+234,815.38,817.62,2.24,0.00,1.95,0.29,1.000,31,is defined by these two traits:
+235,817.62,820.44,2.82,0.00,2.08,0.74,1.000,33,"first, it carries lethal weapons,"
+236,820.44,823.44,3.00,1.30,2.08,0.92,1.000,33,"and second, it acts autonomously."
+237,824.74,826.64,1.90,0.00,1.07,0.83,1.000,17,"Now in your mind,"
+238,826.64,829.32,2.68,0.00,2.21,0.47,1.000,35,what does a killer robot look like?
+239,829.32,831.32,2.00,4.40,1.26,0.74,1.000,20,Something like this?
+240,835.72,838.72,3.00,0.00,2.08,0.92,1.000,33,"A while back, there were movies —"
+241,838.72,843.48,4.76,0.00,2.90,1.86,1.000,46,"Terminator, or Robocop — you've seen the type."
+242,843.48,846.40,2.92,0.00,1.64,1.28,1.000,26,But those are all fiction.
+243,846.40,849.68,3.28,0.00,2.21,1.07,1.000,35,"Closer to reality, there's Big Dog,"
+244,849.68,851.68,2.00,0.00,1.64,0.36,1.000,26,"with a gun mounted on top,"
+245,851.68,857.46,5.78,0.00,1.45,4.33,1.000,23,or some tracked robots.
+246,857.46,859.46,2.00,0.00,1.70,0.30,1.000,27,"But you might say — no, no."
+247,859.46,862.02,2.56,0.00,1.51,1.05,1.000,24,The robots I saw on TV —
+248,862.02,866.56,4.54,0.00,3.66,0.88,1.000,58,those killer robots aren't like that. They look like this.
+249,866.56,871.70,5.14,0.00,4.10,1.04,1.000,65,"At the Spring Festival Gala recently, I saw these killer robots —"
+250,871.70,873.70,2.00,1.50,1.77,0.23,1.000,28,ones that can throw punches.
+251,875.20,880.30,5.10,0.00,4.04,1.06,1.000,64,"Actually, humanoid robots may not be the most advantageous form."
+252,880.30,885.14,4.84,0.00,3.34,1.50,1.000,53,Because two legs are never going to outrun four legs.
+253,885.14,888.90,3.76,0.00,1.77,1.99,1.000,28,"And if the terrain is rough,"
+254,888.90,893.60,4.70,1.58,3.85,0.85,1.000,61,I don't think they'd be as stable as tracked vehicles either.
+255,895.18,898.18,3.00,0.00,1.32,1.68,1.000,21,"Besides the Iran war,"
+256,898.18,901.62,3.44,0.00,5.93,-2.49,1.723,94,there's another war — going on in Eastern Europe — that's been raging for over four years now.
+257,901.62,904.26,2.64,0.00,1.89,0.75,1.000,30,That's the Russia-Ukraine war.
+258,904.26,908.38,4.12,0.00,2.46,1.66,1.000,39,"Last year, there was a scene like this:"
+259,908.38,912.96,4.58,0.00,1.32,3.26,1.000,21,some Russian soldiers
+260,912.96,916.40,3.44,0.00,2.58,0.86,1.000,41,"surrendered — they surrendered to a unit,"
+261,916.40,918.44,2.04,0.00,2.08,-0.04,1.020,33,but that unit had no human in it.
+262,918.44,920.44,2.00,0.00,1.32,0.68,1.000,21,They were all robots.
+263,920.44,923.24,2.80,0.00,2.08,0.72,1.000,33,I don't know if you saw the news.
+264,923.24,924.78,1.54,0.00,1.26,0.28,1.000,20,I saw it on YouTube.
+265,924.78,927.04,2.26,0.00,2.40,-0.14,1.060,38,I'm not sure if you can still find it.
+266,927.04,930.12,3.08,0.00,1.95,1.13,1.000,31,Here's what happened: a drone —
+267,930.12,932.44,2.32,0.00,1.20,1.12,1.000,19,a Ukrainian drone —
+268,932.44,934.54,2.10,0.00,1.13,0.97,1.000,18,flew over a trench
+269,934.54,937.86,3.32,0.00,2.14,1.18,1.000,34,and spotted some Russian soldiers.
+270,937.86,942.72,4.86,0.00,2.02,2.84,1.000,32,Some of them fired at the drone.
+271,942.72,946.12,3.40,0.00,2.33,1.07,1.000,37,"Not long after, a vehicle showed up —"
+272,946.12,950.28,4.16,0.00,3.09,1.07,1.000,49,you can see it on the bottom right of the screen.
+273,950.28,951.72,1.44,0.00,1.39,0.05,1.000,22,What was that vehicle?
+274,951.72,953.76,2.04,0.00,1.45,0.59,1.000,23,It was actually a bomb.
+275,953.76,956.96,3.20,0.00,3.40,-0.20,1.064,54,"A four-wheeled bomb — it drove right up to the trench,"
+276,956.96,959.36,2.40,0.00,2.46,-0.06,1.025,39,intending to wipe them all out at once.
+277,959.36,963.52,4.16,0.00,3.59,0.57,1.000,57,But the Russian soldiers saw it and raised a white flag —
+278,963.52,965.12,1.60,0.00,1.26,0.34,1.000,20,signaling surrender.
+279,965.12,970.00,4.88,0.00,3.72,1.16,1.000,59,"Then another vehicle, equipped with a machine gun, came up,"
+280,970.00,971.48,1.48,0.00,0.88,0.60,1.000,14,"disarmed them,"
+281,971.48,975.94,4.46,0.00,2.33,2.13,1.000,37,and escorted them back to a POW camp.
+282,975.94,979.06,3.12,0.00,2.33,0.79,1.000,37,Can you believe that's even possible?
+283,979.06,981.12,2.06,0.00,2.14,-0.08,1.041,34,"If you've been following the news,"
+284,981.12,983.04,1.92,0.00,2.14,-0.22,1.116,34,"you know that in these four years,"
+285,983.04,987.08,4.04,0.00,2.58,1.46,1.000,41,"Ukraine has become a military powerhouse,"
+286,987.08,991.02,3.94,0.00,1.95,1.99,1.000,31,especially in unmanned systems:
+287,991.02,998.12,7.10,0.00,5.93,1.17,1.000,94,"unmanned aircraft, unmanned ground vehicles, unmanned combat vehicles, unmanned naval vessels."
+288,998.12,1000.76,2.64,0.00,3.15,-0.51,1.194,50,The unmanned vessels are particularly famous. Why?
+289,1000.76,1003.60,2.84,0.00,3.22,-0.38,1.132,51,Because they've kept the Black Sea Fleet in check —
+290,1003.60,1007.30,3.70,0.00,1.58,2.12,1.000,25,Russia's Black Sea Fleet.
+291,1007.30,1013.06,5.76,0.00,2.58,3.18,1.000,41,"When controlling these unmanned machines,"
+292,1013.06,1015.80,2.74,0.00,3.28,-0.54,1.197,52,"they usually use what's called ""First Person View"" —"
+293,1015.80,1019.02,3.22,0.00,1.83,1.39,1.000,29,"that is, first-person vision."
+294,1019.02,1021.70,2.68,0.00,1.45,1.23,1.000,23,"What the aircraft sees,"
+295,1021.70,1025.06,3.36,0.00,2.40,0.96,1.000,38,"what the camera sees, is what you see."
+296,1025.06,1027.00,1.94,0.00,2.27,-0.33,1.170,36,Like in the image you're looking at:
+297,1027.00,1029.80,2.80,0.00,1.89,0.91,1.000,30,"the operator, the controller —"
+298,1029.80,1032.84,3.04,0.00,1.77,1.27,1.000,28,what he sees is exactly what
+299,1032.84,1034.84,2.00,0.00,2.02,-0.02,1.009,32,the drone's camera is capturing.
+300,1034.84,1039.72,4.88,0.00,1.51,3.37,1.000,24,"Starting from late 2024,"
+301,1039.72,1041.72,2.00,0.00,1.83,0.17,1.000,29,"on the Ukrainian battlefield,"
+302,1041.72,1046.20,4.48,0.00,3.59,0.89,1.000,57,they began implementing what's called coordinated combat.
+303,1046.20,1048.20,2.00,0.00,2.40,-0.40,1.198,38,"A single soldier, a single individual,"
+304,1048.20,1052.80,4.60,0.00,2.65,1.95,1.000,42,doesn't just control the ground vehicles —
+305,1052.80,1056.82,4.02,0.00,3.09,0.93,1.000,49,he can also simultaneously control aerial drones.
+306,1056.82,1059.10,2.28,0.00,3.22,-0.94,1.410,51,So there's surveillance — like the earlier example:
+307,1059.10,1060.98,1.88,0.00,1.89,-0.01,1.006,30,"he spots the Russian soldiers,"
+308,1060.98,1064.68,3.70,0.00,2.58,1.12,1.000,41,then can dispatch a bomb-carrying vehicle
+309,1064.68,1067.58,2.90,0.00,1.39,1.51,1.000,22,to take out the enemy.
+310,1067.58,1069.28,1.70,0.00,2.52,-0.82,1.483,40,You can see this is coordinated combat —
+311,1069.28,1072.18,2.90,0.00,2.02,0.88,1.000,32,letting a single soldier control
+312,1072.18,1077.36,5.18,0.00,2.71,2.47,1.000,43,"unmanned weapons across sea, land, and air."
+313,1077.36,1081.86,4.50,0.00,3.85,0.65,1.000,61,"On top of that, over these few years, artificial intelligence"
+314,1081.86,1084.78,2.92,0.00,2.46,0.46,1.000,39,"has been developing on the battlefield,"
+315,1084.78,1089.30,4.52,0.00,2.96,1.56,1.000,47,making the effectiveness even more formidable —
+316,1089.30,1092.62,3.32,0.00,2.46,0.86,1.000,39,the effectiveness of using robots. Why?
+317,1092.62,1098.22,5.60,0.00,3.28,2.32,1.000,52,Because AI can take massive amounts of sensor data —
+318,1098.22,1101.62,3.40,0.00,3.09,0.31,1.000,49,"huge volumes of data — and digest and analyze it,"
+319,1101.62,1104.70,3.08,0.00,2.08,1.00,1.000,33,"assess the battlefield situation,"
+320,1104.70,1108.86,4.16,0.00,2.14,2.02,1.000,34,and then offer options for action.
+321,1108.86,1111.44,2.58,0.00,2.33,0.25,1.000,37,"So have you noticed in recent months,"
+322,1111.44,1113.04,1.60,0.00,2.65,-1.05,1.655,42,the U.S. military looks pretty impressive?
+323,1113.04,1116.50,3.46,0.00,4.22,-0.76,1.221,67,"For example, the capture of Maduro — done in a few hours overnight,"
+324,1116.50,1120.54,4.04,0.00,3.22,0.82,1.000,51,"and they got him. Now in Central and South America,"
+325,1120.54,1123.54,3.00,0.00,2.90,0.10,1.000,46,Venezuela counts as a regional military power.
+326,1123.54,1125.66,2.12,0.00,2.65,-0.53,1.249,42,"But just like that, the capture succeeded."
+327,1125.66,1129.70,4.04,0.00,3.15,0.89,1.000,50,I'll give you more examples and you'll understand.
+328,1129.70,1132.46,2.76,0.00,2.84,-0.08,1.028,45,I wonder if any of you have seen this movie —
+329,1132.46,1135.80,3.34,0.00,1.83,1.51,1.000,29,it's called Zero Dark Thirty.
+330,1135.80,1137.60,1.80,0.00,1.77,0.03,1.000,28,Some people mistakenly think
+331,1137.60,1139.20,1.60,0.00,2.33,-0.73,1.458,37,"that if you want to watch war movies,"
+332,1139.20,1142.90,3.70,0.00,1.70,2.00,1.000,27,this is one of the top ten.
+333,1142.90,1145.92,3.02,0.58,2.14,0.88,1.000,34,"What does ""Zero Dark Thirty"" mean?"
+334,1146.50,1152.00,5.50,0.00,2.71,2.79,1.000,43,The Chinese title I think you already know.
+335,1152.00,1155.06,3.06,0.00,2.02,1.04,1.000,32,"Usually for military operations,"
+336,1155.06,1157.50,2.44,0.00,2.90,-0.46,1.189,46,they pick the hours between 12 a.m. and 3 a.m.
+337,1157.50,1159.98,2.48,0.00,2.77,-0.29,1.119,44,Because the body's circadian rhythm tells us
+338,1159.98,1162.22,2.24,0.00,2.77,-0.53,1.238,44,that most people between midnight and 3 a.m.
+339,1162.22,1165.42,3.20,0.00,2.90,0.30,1.000,46,"are at their most vulnerable, their sleepiest."
+340,1165.42,1169.28,3.86,0.00,1.89,1.97,1.000,30,"So ""Zero-Thirty"" means 12:30 —"
+341,1169.28,1174.52,5.24,0.00,2.08,3.16,1.000,33,an operation at 30 past midnight.
+342,1174.52,1176.52,2.00,0.00,1.64,0.36,1.000,26,There's a scene like this:
+343,1176.52,1183.46,6.94,0.00,1.26,5.68,1.000,20,A CIA female analyst
+344,1183.46,1187.32,3.86,0.00,2.21,1.65,1.000,35,finds bin Laden hiding in Pakistan.
+345,1187.32,1191.12,3.80,0.00,2.46,1.34,1.000,39,But her superiors keep delaying action.
+346,1191.12,1192.52,1.40,0.00,0.95,0.45,1.000,15,No action. Why?
+347,1192.52,1194.72,2.20,0.00,3.03,-0.83,1.376,48,Because they're afraid of a diplomatic incident.
+348,1194.72,1198.56,3.84,0.00,2.27,1.57,1.000,36,She keeps asking: how certain are we
+349,1198.56,1201.78,3.22,0.00,2.65,0.57,1.000,42,that bin Laden is there? In that compound?
+350,1201.78,1205.38,3.60,0.00,1.70,1.90,1.000,27,This scene: the CIA analyst
+351,1205.38,1208.64,3.26,0.00,3.40,-0.14,1.044,54,goes to her boss's door every day and writes a number.
+352,1208.64,1210.34,1.70,0.00,2.08,-0.38,1.224,33,"Like today: she writes ""21 days."""
+353,1210.34,1212.50,2.16,0.00,3.03,-0.87,1.401,48,"It's been 21 days since they found the compound,"
+354,1212.50,1214.00,1.50,0.00,1.26,0.24,1.000,20,and still no action.
+355,1214.00,1216.30,2.30,0.00,1.39,0.91,1.000,22,Until what — 159 days.
+356,1216.30,1219.58,3.28,0.00,2.02,1.26,1.000,32,Over four months with no action.
+357,1219.58,1222.64,3.06,1.90,2.14,0.92,1.000,34,"Finally, the operation went ahead."
+358,1224.54,1228.78,4.24,0.00,1.07,3.17,1.000,17,"In this Iran war,"
+359,1228.78,1232.78,4.00,0.00,2.77,1.23,1.000,44,the most striking thing — was the first day.
+360,1232.78,1238.50,5.72,0.00,2.21,3.51,1.000,35,"On day one, they took out Khamenei."
+361,1238.50,1242.34,3.84,0.00,2.40,1.44,1.000,38,Not just that — on day one they killed
+362,1242.34,1249.66,7.32,0.00,2.58,4.74,1.000,41,48 senior generals and important leaders.
+363,1249.66,1251.88,2.22,0.00,1.83,0.39,1.000,29,Remarkable. Truly remarkable.
+364,1251.88,1254.90,3.02,0.00,1.95,1.07,1.000,31,How could they accomplish this?
+365,1254.90,1256.76,1.86,0.00,2.33,-0.47,1.254,37,Beyond the precision of the weapons —
+366,1256.76,1260.44,3.68,0.00,1.45,2.23,1.000,23,look at the upper-left:
+367,1260.44,1263.84,3.40,0.00,3.09,0.31,1.000,49,"Khamenei's residence — a precision strike, right?"
+368,1263.84,1265.36,1.52,0.00,1.45,0.07,1.000,23,The building collapsed.
+369,1265.36,1268.72,3.36,0.00,1.45,1.91,1.000,23,"And several deep holes,"
+370,1268.72,1272.20,3.48,0.00,2.65,0.83,1.000,42,because they used bunker-buster munitions.
+371,1272.20,1277.58,5.38,0.00,3.47,1.91,1.000,55,Meanwhile the surrounding buildings were not destroyed.
+372,1277.58,1280.94,3.36,0.00,2.14,1.22,1.000,34,So what's actually happening here?
+373,1280.94,1283.92,2.98,0.00,2.08,0.90,1.000,33,They use extensive surveillance —
+374,1283.92,1286.26,2.34,0.00,1.77,0.57,1.000,28,"street cameras, for example,"
+375,1286.26,1289.66,3.40,0.00,2.96,0.44,1.000,47,"massive surveillance, and AI to analyze it all."
+376,1289.66,1293.08,3.42,0.00,3.40,0.02,1.000,54,"They confirm all the targeted individuals are on site,"
+377,1293.08,1295.86,2.78,0.00,1.13,1.65,1.000,18,then decide when —
+378,1295.86,1298.08,2.22,0.00,2.08,0.14,1.000,33,whether to strike at that moment.
+379,1298.08,1303.28,5.20,0.00,2.40,2.80,1.000,38,And when they do strike — what weapon?
+380,1303.28,1307.24,3.96,0.00,2.02,1.94,1.000,32,You may have heard of one called
+381,1307.24,1311.10,3.86,0.00,1.77,2.09,1.000,28,"""Blue Spear"" — Blue Sparrow."
+382,1311.10,1313.94,2.84,0.00,2.08,0.76,1.000,33,This weapon is very unusual. Why?
+383,1313.94,1317.26,3.32,0.00,2.96,0.36,1.000,47,"A normal missile, once launched, flies forward."
+384,1317.26,1318.86,1.60,0.00,1.64,-0.04,1.025,26,But this one flies upward.
+385,1318.86,1321.70,2.84,0.00,2.84,0.00,1.000,45,"It punches out to the edge of the atmosphere,"
+386,1321.70,1323.26,1.56,0.00,1.13,0.43,1.000,18,the edge of space.
+387,1323.26,1325.44,2.18,0.00,1.26,0.92,1.000,20,Why does it do that?
+388,1325.44,1327.58,2.14,0.00,2.96,-0.82,1.385,47,"First, there's less drag at the edge of space —"
+389,1327.58,1330.60,3.02,0.00,1.77,1.25,1.000,28,so it has much longer range.
+390,1330.60,1335.12,4.52,0.00,2.52,2.00,1.000,40,"When it comes back down to ground level,"
+391,1335.12,1336.72,1.60,0.00,1.70,-0.10,1.064,27,"re-entering the atmosphere,"
+392,1336.72,1339.52,2.80,0.00,1.01,1.79,1.000,16,it dives so fast
+393,1339.52,1342.50,2.98,0.00,2.58,0.40,1.000,41,that interception becomes very difficult.
+394,1342.50,1343.72,1.22,0.00,0.69,0.53,1.000,11,Understand?
+395,1343.72,1346.44,2.72,0.00,2.02,0.70,1.000,32,There's actually another reason.
+396,1346.44,1349.20,2.76,0.00,2.65,0.11,1.000,42,"Because look — this is day one of the war,"
+397,1349.20,1350.76,1.56,0.00,2.02,-0.46,1.293,32,the early stage of the conflict.
+398,1350.76,1354.10,3.34,0.00,3.09,0.25,1.000,49,You don't yet know how much of Iran's air defense
+399,1354.10,1355.80,1.70,0.00,2.08,-0.38,1.224,33,has been suppressed or destroyed.
+400,1355.80,1360.68,4.88,0.00,3.15,1.73,1.000,50,So they chose this weapon for exactly that reason.
+401,1360.68,1364.14,3.46,0.00,3.72,-0.26,1.075,59,"You know, radar — no matter how it looks from the outside —"
+402,1364.14,1368.36,4.22,0.00,3.15,1.07,1.000,50,inside it has an antenna that rotates 360 degrees.
+403,1368.36,1370.02,1.66,0.00,1.83,-0.17,1.101,29,The principle is that simple:
+404,1370.02,1373.64,3.62,0.00,1.58,2.04,1.000,25,"you emit signals outward,"
+405,1373.64,1376.68,3.04,0.00,2.52,0.52,1.000,40,"they bounce off something and come back,"
+406,1376.68,1378.24,1.56,0.00,2.14,-0.58,1.374,34,and now you know what's out there.
+407,1378.24,1379.62,1.38,0.00,1.77,-0.39,1.279,28,"It scans 360 degrees, right?"
+408,1379.62,1384.32,4.70,0.00,2.14,2.56,1.000,34,But most radars have a blind spot.
+409,1384.32,1386.72,2.40,0.00,1.95,0.45,1.000,31,That blind spot is the zenith —
+410,1386.72,1387.98,1.26,0.00,1.13,0.13,1.000,18,directly overhead.
+411,1387.98,1391.36,3.38,0.00,2.77,0.61,1.000,44,You rarely see a radar sweeping straight up.
+412,1391.36,1393.02,1.66,0.00,0.69,0.97,1.000,11,Understand?
+413,1393.02,1395.50,2.48,0.00,2.65,-0.17,1.068,42,So this Blue Sparrow's special feature is:
+414,1395.50,1398.24,2.74,0.00,2.08,0.66,1.000,33,it comes in right at the zenith —
+415,1398.24,1401.60,3.36,0.00,1.77,1.59,1.000,28,straight down on top of you.
+416,1401.60,1405.32,3.72,0.00,1.13,2.59,1.000,18,So why on day one?
+417,1405.32,1407.12,1.80,0.00,1.70,0.10,1.000,27,What I want to show you is:
+418,1407.12,1410.08,2.96,0.00,2.71,0.25,1.000,43,"all that intelligence — the analysis of it,"
+419,1410.08,1414.28,4.20,0.00,2.21,1.99,1.000,35,"the timing, the weapon operations —"
+420,1414.28,1419.80,5.52,0.00,3.59,1.93,1.000,57,all of it was filtered through AI to inform the decision.
+421,1419.80,1425.76,5.96,0.00,1.39,4.57,1.000,22,The result is obvious.
+422,1425.76,1433.26,7.50,0.00,2.21,5.29,1.000,35,"Now, facing these unmanned weapons,"
+423,1433.26,1435.76,2.50,0.00,2.08,0.42,1.000,33,there are counter-strategies too.
+424,1435.76,1440.10,4.34,0.00,2.14,2.20,1.000,34,Can you see what this image shows?
+425,1440.10,1444.96,4.86,0.00,1.20,3.66,1.000,19,Look at this city —
+426,1444.96,1447.52,2.56,0.00,3.15,-0.59,1.231,50,doesn't it look like there's a spider web over it?
+427,1447.52,1453.66,6.14,0.00,2.14,4.00,1.000,34,This is a town in eastern Ukraine.
+428,1453.66,1457.38,3.72,0.00,0.95,2.77,1.000,15,What are those?
+429,1457.38,1459.94,2.56,0.00,0.76,1.80,1.000,12,When a drone
+430,1459.94,1462.66,2.72,0.00,1.58,1.14,1.000,25,"is launched into the sky,"
+431,1462.66,1467.04,4.38,0.00,2.33,2.05,1.000,37,it stays in contact with its operator
+432,1467.04,1470.74,3.70,0.00,1.01,2.69,1.000,16,via radio waves.
+433,1470.74,1472.74,2.00,0.00,1.39,0.61,1.000,22,How do you counter it?
+434,1472.74,1475.64,2.90,0.00,1.70,1.20,1.000,27,You send a jamming signal —
+435,1475.64,1480.22,4.58,0.00,1.83,2.75,1.000,29,an electronic jamming system.
+436,1480.22,1482.22,2.00,0.00,1.32,0.68,1.000,21,"Once contact is lost,"
+437,1482.22,1483.52,1.30,0.00,1.83,-0.53,1.406,29,you can't control it anymore.
+438,1483.52,1486.32,2.80,0.00,2.84,-0.04,1.013,45,Understand? So how do you solve that problem?
+439,1486.32,1489.48,3.16,0.00,2.77,0.39,1.000,44,How do you solve it? They use fiber optics —
+440,1489.48,1494.48,5.00,0.00,1.26,3.74,1.000,20,fiber-optic cables —
+441,1494.48,1496.72,2.24,0.00,1.26,0.98,1.000,20,to tether the drone.
+442,1496.72,1500.36,3.64,0.00,2.77,0.87,1.000,44,That way it's not affected by radio jamming.
+443,1500.36,1504.04,3.68,0.00,3.59,0.09,1.000,57,"And through the fiber, you can transmit the same signals:"
+444,1504.04,1506.04,2.00,0.00,1.77,0.23,1.000,28,"first, control of the drone;"
+445,1506.04,1508.04,2.00,0.00,1.45,0.55,1.000,23,"second, the video feed."
+446,1508.04,1511.96,3.92,0.00,3.15,0.77,1.000,50,You can still operate it from a first-person view.
+447,1511.96,1513.42,1.46,0.00,1.45,0.01,1.000,23,Do you see what I mean?
+448,1513.42,1518.02,4.60,0.00,3.66,0.94,1.000,58,And those fiber cables are very long — tens of kilometers.
+449,1518.02,1519.18,1.16,0.00,1.95,-0.79,1.685,31,Each one is tens of kilometers.
+450,1519.18,1521.52,2.34,0.00,1.89,0.45,1.000,30,"After the target is destroyed,"
+451,1521.52,1524.50,2.98,0.00,2.65,0.33,1.000,42,the fiber stays behind on the battlefield.
+452,1524.50,1529.70,5.20,0.00,3.59,1.61,1.000,57,"Over time, the whole battlefield looks like a spider web."
+453,1529.70,1533.00,3.30,0.00,1.83,1.47,1.000,29,That's what those fibers are.
+454,1533.00,1537.42,4.42,0.00,3.22,1.20,1.000,51,If you know fiber optics — it doesn't break easily.
+455,1537.42,1540.90,3.48,0.00,3.53,-0.05,1.015,56,"But as you can imagine, there are real problems with it."
+456,1540.90,1547.02,6.12,0.00,3.72,2.40,1.000,59,"Beyond all that fiber being left behind on the battlefield,"
+457,1547.02,1552.42,5.40,0.00,4.85,0.55,1.000,77,"there's the fact that no matter how long it is, it's only tens of kilometers."
+458,1552.42,1556.62,4.20,0.00,1.58,2.62,1.000,25,So how do you solve that?
+459,1556.62,1563.18,6.56,0.00,2.77,3.79,1.000,44,How do you really solve the jamming problem?
+460,1563.18,1567.02,3.84,0.00,1.20,2.64,1.000,19,"A few weeks ago, in"
+461,1567.02,1570.96,3.94,0.00,2.96,0.98,1.000,47,"Foreign Affairs magazine, there was an article."
+462,1570.96,1573.50,2.54,0.00,1.77,0.77,1.000,28,The author is quite famous —
+463,1573.50,1577.66,4.16,0.00,1.26,2.90,1.000,20,"a four-star general,"
+464,1577.66,1584.08,6.42,0.00,1.77,4.65,1.000,28,and the former CIA Director.
+465,1584.08,1588.90,4.82,0.00,3.47,1.35,1.000,55,"He wrote an article about the ""autonomous battlefield."""
+466,1588.90,1591.64,2.74,0.00,1.83,0.91,1.000,29,What does that mean? He said:
+467,1591.64,1594.62,2.98,0.00,1.58,1.40,1.000,25,"in the end, winning a war"
+468,1594.62,1599.36,4.74,0.00,3.22,1.52,1.000,51,"doesn't come down to how many drones a country has,"
+469,1599.36,1601.36,2.00,0.00,1.70,0.30,1.000,27,how many unmanned weapons —
+470,1601.36,1609.86,8.50,0.00,3.72,4.78,1.000,59,it comes down to how those unmanned weapons make decisions.
+471,1609.86,1612.38,2.52,0.00,2.21,0.31,1.000,35,"If, when you've detected the enemy,"
+472,1612.38,1617.40,5.02,0.00,3.22,1.80,1.000,51,"before firing, you still need a human — a soldier —"
+473,1617.40,1620.40,3.00,0.00,1.70,1.30,1.000,27,"to press the firing button,"
+474,1620.40,1624.56,4.16,0.06,3.22,0.94,1.000,51,"that operation, that reaction, is already too slow."
+475,1624.62,1626.62,2.00,0.00,1.89,0.11,1.000,30,Do you understand what I mean?
+476,1626.62,1631.66,5.04,0.00,1.64,3.40,1.000,26,So look at Ukraine today —
+477,1631.66,1635.22,3.56,0.00,3.34,0.22,1.000,53,"the Interceptor on the left was developed by Ukraine,"
+478,1635.22,1639.12,3.90,0.00,3.59,0.31,1.000,57,which is now helping Gulf states deal with Iran's drones.
+479,1639.12,1644.62,5.50,0.00,2.77,2.73,1.000,44,On the right are drones invented by the U.S.
+480,1644.62,1646.62,2.00,0.00,2.14,-0.14,1.072,34,What's special about these drones?
+481,1646.62,1649.22,2.60,0.00,1.58,1.02,1.000,25,"First, they're AI-guided."
+482,1649.22,1652.22,3.00,0.00,1.13,1.87,1.000,18,Their pilot is AI.
+483,1652.22,1656.14,3.92,0.00,1.83,2.09,1.000,29,"That is, when you launch one,"
+484,1656.14,1658.78,2.64,0.00,1.64,1.00,1.000,26,"you've given it a mission,"
+485,1658.78,1660.86,2.08,0.00,2.21,-0.13,1.061,35,and it will carry out that mission.
+486,1660.86,1663.66,2.80,0.00,1.89,0.91,1.000,30,"When you send it into the air,"
+487,1663.66,1665.02,1.36,0.00,1.26,0.10,1.000,20,what do they expect?
+488,1665.02,1668.24,3.22,0.00,3.47,-0.25,1.077,55,That contact will be lost quickly — because of jamming.
+489,1668.24,1671.42,3.18,0.00,2.33,0.85,1.000,37,"But because you've given it an order,"
+490,1671.42,1673.12,1.70,0.00,1.32,0.38,1.000,21,it will execute. How?
+491,1673.12,1676.58,3.46,0.00,2.52,0.94,1.000,40,It will autonomously seek out the target
+492,1676.58,1679.20,2.62,0.00,0.95,1.67,1.000,15,and destroy it.
+493,1679.20,1682.16,2.96,0.00,2.71,0.25,1.000,43,"After that, several scenarios are possible."
+494,1682.16,1685.68,3.52,0.00,0.76,2.76,1.000,12,"First, what?"
+495,1685.68,1688.78,3.10,0.00,3.66,-0.56,1.180,58,The target it was looking for has already been destroyed —
+496,1688.78,1691.78,3.00,0.00,1.70,1.30,1.000,27,then it will safely return.
+497,1691.78,1692.78,1.00,0.00,0.50,0.50,1.000,8,Or what?
+498,1692.78,1696.88,4.10,0.00,3.40,0.70,1.000,54,"It finds another target. Once its target is destroyed,"
+499,1696.88,1700.66,3.78,0.00,2.21,1.57,1.000,35,"it finds another target on its own,"
+500,1700.66,1703.16,2.50,0.00,2.71,-0.21,1.084,43,"finds another target, and then destroys it."
+501,1703.16,1704.44,1.28,0.00,0.50,0.78,1.000,8,Or what?
+502,1704.44,1708.92,4.48,0.00,2.65,1.83,1.000,42,Or you re-establish contact with the drone
+503,1708.92,1712.44,3.52,0.00,3.40,0.12,1.000,54,"and change its orders, or give it a different command."
+504,1712.44,1713.78,1.34,0.00,1.89,-0.55,1.412,30,Do you understand what I mean?
+505,1713.78,1716.76,2.98,0.00,2.65,0.33,1.000,42,"Simply put, once you've put it in the air,"
+506,1716.76,1720.72,3.96,0.00,2.08,1.88,1.000,33,it executes the order on its own.
+507,1720.72,1727.52,6.80,0.00,2.21,4.59,1.000,35,"At the moment of dropping the bomb,"
+508,1727.52,1729.22,1.70,0.00,2.46,-0.76,1.446,39,you don't have to press anything again.
+509,1729.22,1733.68,4.46,0.00,2.77,1.69,1.000,44,It carries out this kind of order by itself.
+510,1733.68,1736.18,2.50,0.00,1.13,1.37,1.000,18,Are you following?
+511,1736.18,1742.46,6.28,0.00,2.96,3.32,1.000,47,I think this is exactly where the problem lies.
+512,1742.46,1745.90,3.44,0.00,3.28,0.16,1.000,52,"Because traditionally, with so-called killer robots,"
+513,1745.90,1747.90,2.00,0.00,2.08,-0.08,1.040,33,there has always been a red line.
+514,1747.90,1749.54,1.64,0.00,1.39,0.25,1.000,22,What is that red line?
+515,1749.54,1752.78,3.24,0.00,3.47,-0.23,1.070,55,"At the final moment, when the decision to fire is made,"
+516,1752.78,1756.96,4.18,0.00,1.70,2.48,1.000,27,where does the control sit?
+517,1756.96,1759.74,2.78,0.00,2.27,0.51,1.000,36,Is it with the soldier operating it?
+518,1759.74,1763.70,3.96,0.00,2.46,1.50,1.000,39,Or do you hand it over to AI to decide?
+519,1763.70,1767.80,4.10,0.00,2.52,1.58,1.000,40,That's the red line. That's the trigger.
+520,1767.80,1769.72,1.92,0.00,1.58,0.34,1.000,25,And what did we just see?
+521,1769.72,1772.92,3.20,0.00,2.71,0.49,1.000,43,"Because of how the battlefield has evolved,"
+522,1772.92,1776.46,3.54,0.00,3.47,0.07,1.000,55,"they've developed these drones, these unmanned systems,"
+523,1776.46,1779.60,3.14,0.00,2.08,1.06,1.000,33,"and to deal with jamming signals,"
+524,1779.60,1783.34,3.74,0.00,1.70,2.04,1.000,27,they made this arrangement:
+525,1783.34,1786.40,3.06,0.00,3.47,-0.41,1.133,55,"once you launch it, it executes the mission on its own."
+526,1786.40,1790.06,3.66,0.00,2.02,1.64,1.000,32,AI is its navigator. Understand?
+527,1790.06,1791.86,1.80,0.00,1.32,0.48,1.000,21,Some people will ask:
+528,1791.86,1794.06,2.20,0.00,3.03,-0.83,1.376,48,"how is that even acceptable? Once it's up there,"
+529,1794.06,1798.66,4.60,0.00,3.22,1.38,1.000,51,it finds its own targets and opens fire on its own.
+530,1798.66,1801.94,3.28,0.00,2.02,1.26,1.000,32,Does it know who it's targeting?
+531,1801.94,1804.22,2.28,0.00,2.58,-0.30,1.134,41,Does it know whether it's right or wrong?
+532,1804.22,1805.78,1.56,0.00,1.07,0.49,1.000,17,Is it acceptable?
+533,1805.78,1807.66,1.88,0.00,1.77,0.11,1.000,28,But you have to understand —
+534,1807.66,1811.36,3.70,0.00,3.03,0.67,1.000,48,"in four years of war between Russia and Ukraine,"
+535,1811.36,1814.10,2.74,0.00,1.77,0.97,1.000,28,what does Ukraine want most?
+536,1814.10,1815.70,1.60,0.00,0.95,0.65,1.000,15,To win the war.
+537,1815.70,1817.78,2.08,0.00,1.20,0.88,1.000,19,"Whether it's moral,"
+538,1817.78,1821.24,3.46,0.00,4.10,-0.64,1.184,65,whether it's appropriate — leave that to the academics to debate.
+539,1821.24,1823.80,2.56,0.00,2.02,0.54,1.000,32,"Understand? So little by little,"
+540,1823.80,1828.16,4.36,0.00,1.95,2.41,1.000,31,that red line has been crossed.
+541,1828.16,1831.24,3.08,0.00,3.09,-0.01,1.003,49,And that has produced what we just talked about —
+542,1831.24,1833.76,2.52,0.00,2.46,0.06,1.000,39,the killer robot's two defining traits.
+543,1833.76,1837.72,3.96,0.00,2.33,1.63,1.000,37,First: equipped with lethal weapons —
+544,1837.72,1841.16,3.44,0.00,1.39,2.05,1.000,22,"guns, bombs, whatever."
+545,1841.16,1847.04,5.88,0.00,2.52,3.36,1.000,40,Second: capable of autonomous execution.
+546,1847.04,1850.80,3.76,0.44,3.34,0.42,1.000,53,And the boundary keeps getting blurrier and blurrier.
+547,1851.24,1854.08,2.84,0.00,2.65,0.19,1.000,42,"Getting blurrier — if you follow the news,"
+548,1854.08,1857.38,3.30,0.00,2.21,1.09,1.000,35,recently there's been an AI company
+549,1857.38,1860.72,3.34,0.00,3.09,0.25,1.000,49,in a lawsuit with the U.S. Department of Defense.
+550,1860.72,1864.26,3.54,0.00,1.70,1.84,1.000,27,Because they're very firm —
+551,1864.26,1867.94,3.68,0.00,2.46,1.22,1.000,39,they believe that AI on the battlefield
+552,1867.94,1871.16,3.22,0.00,2.08,1.14,1.000,33,can only be allowed to go so far.
+553,1871.16,1873.94,2.78,0.00,3.47,-0.69,1.247,55,They think it shouldn't be allowed to act autonomously.
+554,1873.94,1876.02,2.08,0.00,2.52,-0.44,1.212,40,"The Defense Department, of course, says:"
+555,1876.02,1878.90,2.88,0.00,2.46,0.42,1.000,39,we can't work with a company like that.
+556,1878.90,1880.66,1.76,0.00,1.89,-0.13,1.075,30,So they canceled the contract.
+557,1880.66,1884.56,3.90,0.00,1.39,2.51,1.000,22,And now it's in court.
+558,1884.56,1886.30,1.74,0.00,1.26,0.48,1.000,20,So what can you see?
+559,1886.30,1888.08,1.78,0.00,1.13,0.65,1.000,18,This is the trend.
+560,1888.08,1890.58,2.50,0.00,1.83,0.67,1.000,29,And I believe this represents
+561,1890.58,1893.72,3.14,0.00,2.90,0.24,1.000,46,the coming third revolution in weapons of war.
+562,1893.72,1897.64,3.92,0.00,2.84,1.08,1.000,45,What makes it different from nuclear weapons?
+563,1897.64,1903.18,5.54,0.00,2.40,3.14,1.000,38,The materials are very easy to obtain.
+564,1903.18,1905.02,1.84,0.00,1.77,0.07,1.000,28,You can even use 3D printers
+565,1905.02,1907.66,2.64,0.00,1.45,1.19,1.000,23,to print these weapons.
+566,1907.66,1909.92,2.26,0.00,2.52,-0.26,1.116,40,You may have heard a recent news story —
+567,1909.92,1914.52,4.60,0.00,3.40,1.20,1.000,54,"Beijing banning certain people, banning drone flights,"
+568,1914.52,1917.96,3.44,0.00,2.90,0.54,1.000,46,banning drone modifications. It's very simple:
+569,1917.96,1922.26,4.30,0.00,3.78,0.52,1.000,60,"all you need is to build a drone and strap explosives to it,"
+570,1922.26,1926.78,4.52,0.00,3.03,1.49,1.000,48,and you've got a decapitation strike capability.
+571,1926.78,1931.56,4.78,0.00,1.64,3.14,1.000,26,"So unlike nuclear weapons,"
+572,1931.56,1939.34,7.78,0.00,4.35,3.43,1.000,69,the materials here are more widespread and far easier to proliferate.
+573,1939.34,1945.34,6.00,0.00,2.58,3.42,1.000,41,"And Ukraine today — if you search online,"
+574,1945.34,1952.14,6.80,0.00,3.85,2.95,1.000,61,you'll find they can manufacture millions of drones per year.
+575,1952.14,1955.78,3.64,0.00,3.85,-0.21,1.057,61,At the start of the war they had almost no military industry.
+576,1955.78,1962.98,7.20,0.00,2.96,4.24,1.000,47,Now they can produce millions of drones a year.
+577,1962.98,1965.20,2.22,0.00,1.51,0.71,1.000,24,Alright — you might ask:
+578,1965.20,1969.42,4.22,0.00,3.85,0.37,1.000,61,"these weapons revolutions, the development of these weapons —"
+579,1969.42,1972.70,3.28,2.18,2.02,1.26,1.000,32,what does it have to do with us?
+580,1974.88,1977.32,2.44,0.00,2.52,-0.08,1.034,40,"In the Book of Revelation, in the Bible,"
+581,1977.32,1979.90,2.58,0.00,2.71,-0.13,1.051,43,there are descriptions of future disasters.
+582,1979.90,1984.40,4.50,0.00,3.03,1.47,1.000,48,"While we were singing earlier, I had a thought —"
+583,1984.40,1988.32,3.92,0.00,3.59,0.33,1.000,57,"because the Lord has saved us, and He will save us still."
+584,1988.32,1990.48,2.16,0.00,1.32,0.84,1.000,21,"He saved us from sin,"
+585,1990.48,1993.48,3.00,0.00,2.65,0.35,1.000,42,and He will save us from disaster as well.
+586,1993.48,1996.54,3.06,0.00,1.83,1.23,1.000,29,"Speaking of future disasters,"
+587,1996.54,2000.58,4.04,0.00,3.53,0.51,1.000,56,one of the things mentioned is the massive loss of life.
+588,2000.58,2006.94,6.36,0.00,2.40,3.96,1.000,38,This refers especially to two moments.
+589,2006.94,2011.02,4.08,0.00,2.40,1.68,1.000,38,"The first is the opening of the seals,"
+590,2011.02,2013.48,2.46,0.00,1.95,0.51,1.000,31,the opening of the early seals.
+591,2013.48,2016.48,3.00,0.00,1.01,1.99,1.000,16,As it says here:
+592,2016.48,2018.94,2.46,0.00,2.02,0.44,1.000,32,"when the fourth seal was opened,"
+593,2018.94,2020.74,1.80,0.00,2.46,-0.66,1.366,39,"I heard the fourth living creature say,"
+594,2020.74,2023.68,2.94,0.00,1.32,1.62,1.000,21,"""Come."" And I looked,"
+595,2023.68,2029.60,5.92,0.00,4.41,1.51,1.000,70,"and behold, a pale horse, and the name of the one riding it was Death."
+596,2029.60,2034.14,4.54,0.00,3.28,1.26,1.000,52,Hades followed with him. Authority was given to them
+597,2034.14,2038.54,4.40,0.00,3.34,1.06,1.000,53,"to kill with sword, famine, plague, and wild beasts —"
+598,2038.54,2041.50,2.96,0.00,2.84,0.12,1.000,45,killing a quarter of the people of the earth.
+599,2041.50,2043.50,2.00,0.00,2.27,-0.27,1.135,36,Before that there were three horses:
+600,2043.50,2046.18,2.68,0.00,2.90,-0.22,1.082,46,"a white horse, a red horse, and a black horse."
+601,2046.18,2048.84,2.66,0.00,2.90,-0.24,1.090,46,That's actually an echo of what came earlier —
+602,2048.84,2051.88,3.04,0.00,3.22,-0.18,1.058,51,"the red horse representing the sword, that is, war."
+603,2051.88,2057.28,5.40,0.00,3.09,2.31,1.000,49,The black horse — what does it represent? Famine.
+604,2057.28,2061.12,3.84,0.00,2.21,1.63,1.000,35,"And there's plague, too. I wonder —"
+605,2061.12,2064.72,3.60,0.00,1.77,1.83,1.000,28,these plagues might possibly
+606,2064.72,2068.04,3.32,0.00,2.65,0.67,1.000,42,even have some connection to the military.
+607,2068.04,2070.60,2.56,0.00,1.26,1.30,1.000,20,"For example, look at"
+608,2070.60,2073.92,3.32,0.00,1.32,2.00,1.000,21,"COVID-19 — all along,"
+609,2073.92,2078.92,5.00,0.00,3.15,1.85,1.000,50,some people didn't want anyone tracing its origin.
+610,2078.92,2083.16,4.24,0.00,2.21,2.03,1.000,35,But there's no shortage of evidence
+611,2083.16,2086.78,3.62,0.00,2.40,1.22,1.000,38,that it likely came from a laboratory.
+612,2086.78,2091.98,5.20,0.00,3.91,1.29,1.000,62,"So you know — conventional weapons, we just talked about some."
+613,2091.98,2094.48,2.50,0.00,2.58,-0.08,1.034,41,"Unconventional weapons — besides nuclear,"
+614,2094.48,2098.48,4.00,0.00,2.14,1.86,1.000,34,there are also biological weapons.
+615,2098.48,2102.54,4.06,0.00,2.96,1.10,1.000,47,"This passage talks about sword, famine, plague,"
+616,2102.54,2104.40,1.86,0.00,2.96,-1.10,1.593,47,and wild beasts killing a quarter of the earth.
+617,2104.40,2106.62,2.22,0.00,2.58,-0.36,1.164,41,"Now, the world has over 8 billion people."
+618,2106.62,2110.60,3.98,0.00,2.65,1.33,1.000,42,A quarter dying — that's 2 billion people.
+619,2110.60,2113.62,3.02,0.00,3.40,-0.38,1.127,54,"China has 1.3 billion, the U.S. just over 300 million."
+620,2113.62,2116.40,2.78,0.00,3.40,-0.62,1.225,54,Even adding up the populations of the U.S. and China —
+621,2116.40,2119.78,3.38,0.00,2.27,1.11,1.000,36,it still wouldn't reach that figure.
+622,2119.78,2121.84,2.06,0.00,1.13,0.93,1.000,18,Do you understand?
+623,2121.84,2123.30,1.46,0.00,1.83,-0.37,1.252,29,Why would so many people die?
+624,2123.30,2125.58,2.28,0.00,1.51,0.77,1.000,24,The Bible also speaks of
+625,2125.58,2130.26,4.68,0.00,1.64,3.04,1.000,26,a great fire in that war —
+626,2130.26,2135.44,5.18,0.00,3.15,2.03,1.000,50,"a third of the earth burned, all the grass burned,"
+627,2135.44,2140.08,4.64,0.00,4.60,0.04,1.000,73,"a third of the seas struck, a third of the sun, moon, and stars affected."
+628,2140.08,2143.06,2.98,0.00,4.41,-1.43,1.481,70,I don't believe this means the sun and moon themselves have problems —
+629,2143.06,2147.98,4.92,0.00,4.16,0.76,1.000,66,"rather, it's the atmosphere — the atmosphere has been compromised."
+630,2147.98,2153.66,5.68,0.00,3.66,2.02,1.000,58,"What could cause a third of the earth, a third of the sea,"
+631,2153.66,2157.00,3.34,0.00,2.84,0.50,1.000,45,and a third of the atmosphere to be affected?
+632,2157.00,2161.42,4.42,0.00,3.15,1.27,1.000,50,I think it's very likely connected to nuclear war.
+633,2161.42,2163.20,1.78,0.00,0.63,1.15,1.000,10,"Next week,"
+634,2163.20,2167.22,4.02,0.00,2.14,1.88,1.000,34,we'll talk more about this aspect.
+635,2167.22,2168.06,0.84,0.00,0.25,0.59,1.000,4,Why?
+636,2168.06,2171.78,3.72,0.00,3.47,0.25,1.000,55,"Because you might think — the Bible is the word of God,"
+637,2171.78,2173.12,1.34,0.00,1.64,-0.30,1.223,26,but the Bible is very old.
+638,2173.12,2174.80,1.68,0.00,1.89,-0.21,1.126,30,"Since the Bible is so ancient,"
+639,2174.80,2179.04,4.24,0.00,2.58,1.66,1.000,41,how could it describe these modern terms?
+640,2179.04,2182.16,3.12,0.00,2.33,0.79,1.000,37,Understand? These modern situations —
+641,2182.16,2184.74,2.58,0.00,1.89,0.69,1.000,30,it can actually describe them.
+642,2184.74,2189.66,4.92,0.00,2.40,2.52,1.000,38,We can dig deeper into this next time.
+643,2189.66,2192.98,3.32,0.00,3.22,0.10,1.000,51,"But at least you know that in January and February,"
+644,2192.98,2195.36,2.38,0.00,3.47,-1.09,1.457,55,remember how the U.S. was still talking about a topic —
+645,2195.36,2201.18,5.82,0.00,1.83,3.99,1.000,29,"wanting to acquire Greenland,"
+646,2201.18,2206.34,5.16,0.00,2.58,2.58,1.000,41,to complete its Golden Dome defense plan.
+647,2206.34,2207.84,1.50,0.00,1.45,0.05,1.000,23,Some people might think
+648,2207.84,2211.34,3.50,0.00,3.15,0.35,1.000,50,nuclear missiles fly east-to-west or west-to-east.
+649,2211.34,2215.26,3.92,0.00,3.40,0.52,1.000,54,"But have you considered — they can also fly northward,"
+650,2215.26,2221.70,6.44,0.00,3.09,3.35,1.000,49,across the North Pole. The route is much shorter.
+651,2221.70,2224.50,2.80,0.00,2.71,0.09,1.000,43,"For example, certain airline routes today —"
+652,2224.50,2228.10,3.60,2.14,2.71,0.89,1.000,43,flight routes — also cross over the Arctic.
+653,2230.24,2237.04,6.80,0.00,3.03,3.77,1.000,48,So all of this connects back to nuclear weapons.
+654,2237.04,2238.94,1.90,0.00,2.71,-0.81,1.427,43,Recently there have been many such things —
+655,2238.94,2245.04,6.10,0.00,3.72,2.38,1.000,59,"about nuclear war, nuclear missile interception, and so on."
+656,2245.04,2246.80,1.76,0.00,1.70,0.06,1.000,27,Coming back to that saying:
+657,2246.80,2252.50,5.70,0.00,3.72,1.98,1.000,59,every weapon humans have invented has eventually been used.
+658,2252.50,2255.44,2.94,0.00,1.58,1.36,1.000,25,And today's nuclear bombs
+659,2255.44,2264.82,9.38,0.00,5.67,3.71,1.000,90,are more than a thousand times more powerful than those dropped on Hiroshima and Nagasaki.
+660,2264.82,2268.92,4.10,0.00,3.34,0.76,1.000,53,Alright — what about the killer robots you mentioned?
+661,2268.92,2272.76,3.84,0.00,2.33,1.51,1.000,37,In the Bible — Revelation chapter 9 —
+662,2272.76,2275.12,2.36,0.00,2.02,0.34,1.000,32,there's a description like this.
+663,2275.12,2279.92,4.80,0.00,4.67,0.13,1.000,74,It speaks of several angels sounding their trumpets — seven angels in all.
+664,2279.92,2282.08,2.16,0.00,1.83,0.33,1.000,29,"When the sixth angel sounded,"
+665,2282.08,2285.88,3.80,0.00,2.33,1.47,1.000,37,"he said a voice came from before God,"
+666,2285.88,2289.12,3.24,0.00,3.91,-0.67,1.206,62,from the four horns of the golden altar — and what did it say?
+667,2289.12,2294.16,5.04,0.00,2.14,2.90,1.000,34,It said to release the four angels
+668,2294.16,2297.32,3.16,0.00,2.65,0.51,1.000,42,who had been bound at the Euphrates River.
+669,2297.32,2300.14,2.82,0.00,2.27,0.55,1.000,36,And those four angels were released.
+670,2300.14,2301.68,1.54,0.00,1.39,0.15,1.000,22,They had been prepared
+671,2301.68,2304.48,2.80,0.00,2.65,0.15,1.000,42,"for a specific year, month, day, and hour,"
+672,2304.48,2307.56,3.08,0.00,1.70,1.38,1.000,27,to kill a third of mankind.
+673,2307.56,2309.86,2.30,0.00,3.09,-0.79,1.343,49,And the armies of horsemen numbered 200 million —
+674,2309.86,2313.44,3.58,0.00,1.32,2.26,1.000,21,I heard their number.
+675,2313.44,2317.80,4.36,0.00,3.59,0.77,1.000,57,The second time massive death is mentioned is right here.
+676,2317.80,2322.16,4.36,0.00,2.96,1.40,1.000,47,Killing a third of mankind. If you do the math:
+677,2322.16,2325.74,3.58,0.00,3.28,0.30,1.000,52,first the four horsemen kill a quarter of humanity —
+678,2325.74,2329.94,4.20,0.00,3.72,0.48,1.000,59,the world goes from 8 billion to 6 billion. 2 billion dead.
+679,2329.94,2334.02,4.08,0.00,4.35,-0.27,1.066,69,Then a third of the remaining 6 billion die — another 2 billion gone.
+680,2334.02,2336.10,2.08,0.00,0.88,1.20,1.000,14,"By this point,"
+681,2336.10,2340.40,4.30,0.00,2.27,2.03,1.000,36,half the world's population is gone.
+682,2340.40,2342.96,2.56,0.00,3.09,-0.53,1.207,49,And let me tell you — what point in time is this?
+683,2342.96,2347.66,4.70,0.00,3.78,0.92,1.000,60,This is only the halfway mark of the seven-year tribulation.
+684,2347.66,2351.64,3.98,0.00,2.90,1.08,1.000,46,The final disasters haven't even happened yet.
+685,2351.64,2354.04,2.40,0.00,2.84,-0.44,1.182,45,The last three and a half years haven't come.
+686,2354.04,2358.12,4.08,0.00,4.48,-0.40,1.097,71,"Speaking of those last three and a half years, what does the Bible say?"
+687,2358.12,2361.44,3.32,0.00,4.16,-0.84,1.253,66,"It says: if not for the sake of the elect, for the sake of Israel,"
+688,2361.44,2365.94,4.50,0.00,3.66,0.84,1.000,58,"if those days were not cut short, no flesh would be saved."
+689,2365.94,2371.24,5.30,0.00,3.34,1.96,1.000,53,"So you realize — the disasters in the earlier period,"
+690,2371.24,2375.54,4.30,0.00,2.71,1.59,1.000,43,the scale of the killing is already severe.
+691,2375.54,2378.90,3.36,0.00,2.40,0.96,1.000,38,And the four seals we just mentioned —
+692,2378.90,2382.30,3.40,0.00,3.85,-0.45,1.131,61,"those happen shortly after the seven-year tribulation begins,"
+693,2382.30,2385.12,2.82,0.00,1.39,1.43,1.000,22,after the white horse.
+694,2385.12,2388.44,3.32,0.00,3.22,0.10,1.000,51,"And here, when the sixth angel sounds his trumpet —"
+695,2388.44,2391.52,3.08,0.00,2.21,0.87,1.000,35,what does that mean? You could say:
+696,2391.52,2394.84,3.32,0.00,1.39,1.93,1.000,22,"after the four horses,"
+697,2394.84,2398.10,3.26,0.00,1.83,1.43,1.000,29,later there's an Antichrist —
+698,2398.10,2399.96,1.86,0.00,2.08,-0.22,1.119,33,the kingdom of the Beast emerges.
+699,2399.96,2401.76,1.80,0.00,2.21,-0.41,1.226,35,"People are required to worship him,"
+700,2401.76,2405.60,3.84,0.00,1.95,1.89,1.000,31,and dissenters are slaughtered.
+701,2405.60,2407.64,2.04,0.00,1.51,0.53,1.000,24,A killing of dissenters.
+702,2407.64,2410.20,2.56,0.00,2.27,0.29,1.000,36,"And in this passage, you'll notice —"
+703,2410.20,2413.04,2.84,0.00,2.27,0.57,1.000,36,"besides killing a third of humanity,"
+704,2413.04,2415.32,2.28,0.00,2.40,-0.12,1.051,38,there are two other striking features.
+705,2415.32,2419.74,4.42,0.00,4.48,-0.06,1.013,71,"First, you notice it specifies a particular year, month, day, and hour."
+706,2419.74,2422.34,2.60,0.00,3.72,-1.12,1.431,59,"Very curious — it doesn't say where the soldiers come from,"
+707,2422.34,2424.44,2.10,0.00,2.96,-0.86,1.411,47,"where they're going, what war they're fighting."
+708,2424.44,2426.76,2.32,0.00,2.02,0.30,1.000,32,Many people confuse this passage
+709,2426.76,2430.64,3.88,0.00,2.02,1.86,1.000,32,with Armageddon or other events.
+710,2430.64,2432.96,2.32,0.00,1.89,0.43,1.000,30,But it isn't. Look carefully —
+711,2432.96,2435.66,2.70,0.00,2.52,0.18,1.000,40,there are significant hints in the text.
+712,2435.66,2437.06,1.40,0.00,1.07,0.33,1.000,17,What does it say?
+713,2437.06,2444.34,7.28,0.00,4.54,2.74,1.000,72,It says: it originates from four angels released at the Euphrates River.
+714,2444.34,2447.10,2.76,0.00,2.77,-0.01,1.005,44,There's a connection to the spiritual realm.
+715,2447.10,2450.54,3.44,0.00,3.15,0.29,1.000,50,And you know the Euphrates is in modern-day Iraq —
+716,2450.54,2456.12,5.58,0.00,2.21,3.37,1.000,35,also the region of ancient Babylon.
+717,2456.12,2462.26,6.14,0.00,2.58,3.56,1.000,41,Back to that original place of rebellion.
+718,2462.26,2464.64,2.38,0.00,1.01,1.37,1.000,16,And notice this:
+719,2464.64,2468.46,3.82,0.00,4.16,-0.34,1.089,66,"a specific year, month, day, and hour, killing a third of mankind."
+720,2468.46,2470.84,2.38,0.00,0.88,1.50,1.000,14,Do you see it?
+721,2470.84,2473.04,2.20,0.00,1.70,0.50,1.000,27,It doesn't look like a war.
+722,2473.04,2475.94,2.90,0.00,2.84,0.06,1.000,45,It looks more like the execution of an order.
+723,2475.94,2479.94,4.00,0.00,2.02,1.98,1.000,32,Like the execution of a command.
+724,2479.94,2482.36,2.42,0.00,1.39,1.03,1.000,22,"Recently, Donald Trump"
+725,2482.36,2484.82,2.46,0.00,2.27,0.19,1.000,36,in a national address a few days ago
+726,2484.82,2486.90,2.08,0.00,1.58,0.50,1.000,25,said something like this:
+727,2486.90,2489.50,2.60,0.00,1.13,1.47,1.000,18,"in modern history,"
+728,2489.50,2493.76,4.26,0.00,2.58,1.68,1.000,41,no war has ever lasted just a single day.
+729,2493.76,2499.64,5.88,0.00,4.41,1.47,1.000,70,"The current Iran war has already gone over thirty days, a whole month."
+730,2499.64,2505.24,5.60,0.00,3.66,1.94,1.000,58,"Modern wars never last a single day, let alone half a day."
+731,2505.24,2509.12,3.88,0.00,3.85,0.03,1.000,61,And here it specifies a particular day and a particular hour.
+732,2509.12,2515.54,6.42,0.00,3.22,3.20,1.000,51,So doesn't it look like the execution of a command?
+733,2515.54,2521.96,6.42,0.00,3.78,2.64,1.000,60,And finding targets to execute a command — that's very easy.
+734,2521.96,2525.80,3.84,0.00,3.28,0.56,1.000,52,"For example, you may have seen the recent news about"
+735,2525.80,2529.38,3.58,0.00,2.21,1.37,1.000,35,"Facebook, Meta, and other platforms"
+736,2529.38,2533.10,3.72,0.00,2.90,0.82,1.000,46,being fined by the courts for using algorithms
+737,2533.10,2539.40,6.30,0.00,1.58,4.72,1.000,25,to learn what people like
+738,2539.40,2542.56,3.16,0.00,2.77,0.39,1.000,44,and feed them content to keep them addicted.
+739,2542.56,2546.46,3.90,0.00,3.34,0.56,1.000,53,"Actually, with that kind of data you can know exactly"
+740,2546.46,2548.72,2.26,0.00,1.83,0.43,1.000,29,"what people are doing online,"
+741,2548.72,2551.34,2.62,0.00,2.33,0.29,1.000,37,"what kind of person they roughly are,"
+742,2551.34,2556.12,4.78,0.00,3.28,1.50,1.000,52,"what they like to watch, their personal preferences,"
+743,2556.12,2559.60,3.48,0.00,2.27,1.21,1.000,36,"their political leanings, all of it."
+744,2559.60,2563.90,4.30,0.00,2.40,1.90,1.000,38,So it's very easy to identify targets.
+745,2563.90,2565.34,1.44,0.00,1.95,-0.51,1.357,31,Another point worth mentioning:
+746,2565.34,2569.36,4.02,0.00,2.58,1.44,1.000,41,it says the cavalry numbered 200 million.
+747,2569.36,2573.00,3.64,0.00,4.04,-0.40,1.109,64,"In the world today, which country has a 200-million-strong army?"
+748,2573.00,2576.68,3.68,0.00,1.07,2.61,1.000,17,None. Understand?
+749,2576.68,2579.76,3.08,0.00,1.51,1.57,1.000,24,But — if you think about
+750,2579.76,2584.52,4.76,0.00,2.96,1.80,1.000,47,"the robots we just talked about, killer robots,"
+751,2584.52,2587.74,3.22,0.00,2.52,0.70,1.000,40,having that many isn't hard at all. Why?
+752,2587.74,2591.12,3.38,0.00,2.84,0.54,1.000,45,200 million. But is the goal to kill a third?
+753,2591.12,2592.72,1.60,0.00,1.70,-0.10,1.064,27,A third would be 2 billion.
+754,2592.72,2597.10,4.38,0.00,2.27,2.11,1.000,36,One robot to ten people. Understand?
+755,2597.10,2598.88,1.78,0.00,1.77,0.01,1.000,28,So it's absolutely possible.
+756,2598.88,2603.74,4.86,0.00,3.53,1.33,1.000,56,And what does that cavalry look like in the description?
+757,2603.74,2606.68,2.94,0.00,2.52,0.42,1.000,40,"In the vision, the riders sit on horses,"
+758,2606.68,2609.70,3.02,0.00,1.77,1.25,1.000,28,"wearing breastplates — fire,"
+759,2609.70,2611.30,1.60,0.00,1.77,-0.17,1.103,28,"breastplates as red as fire,"
+760,2611.30,2613.40,2.10,0.00,2.08,0.02,1.000,33,"hyacinth-blue, and sulfur-yellow."
+761,2613.40,2615.40,2.00,2.00,2.58,-0.58,1.292,41,The horses' heads were like lions' heads.
+762,2617.40,2619.30,1.90,0.00,1.13,0.77,1.000,18,Like lions' heads.
+763,2619.30,2622.10,2.80,0.00,3.22,-0.42,1.148,51,I know everyone's getting hungry — it's lunchtime —
+764,2622.10,2625.80,3.70,0.00,3.03,0.67,1.000,48,"but ""lions' heads"" here isn't the Shanghai dish."
+765,2625.80,2628.68,2.88,0.00,1.45,1.43,1.000,23,"Fire, smoke, and sulfur"
+766,2628.68,2630.88,2.20,0.00,1.95,0.25,1.000,31,came out of the horses' mouths.
+767,2630.88,2635.08,4.20,0.00,2.84,1.36,1.000,45,These three things killed a third of mankind.
+768,2635.08,2638.60,3.52,0.00,3.59,-0.07,1.021,57,The horses' power was in their mouths and in their tails.
+769,2638.60,2640.28,1.68,0.00,1.64,0.04,1.000,26,I don't know what that is.
+770,2640.28,2646.76,6.48,0.00,2.71,3.77,1.000,43,That's what the Apostle John saw back then.
+771,2646.76,2653.48,6.72,0.00,3.97,2.75,1.000,63,"Personally, looking around at how things are developing today —"
+772,2653.48,2659.76,6.28,0.00,1.58,4.70,1.000,25,this U.S.-Israel-Iran war
+773,2659.76,2662.48,2.72,0.00,2.14,0.58,1.000,34,has many implications politically.
+774,2662.48,2666.68,4.20,0.00,1.32,2.88,1.000,21,"For Europe, for NATO,"
+775,2666.68,2671.54,4.86,0.00,2.46,2.40,1.000,39,for Israel's place in the Middle East —
+776,2671.54,2675.76,4.22,0.00,2.27,1.95,1.000,36,those we can leave for another time.
+777,2675.76,2680.66,4.90,0.00,2.90,2.00,1.000,46,"But on the matter of weapons, what can we see?"
+778,2680.66,2684.10,3.44,0.00,2.14,1.30,1.000,34,"The U.S. economy, U.S. technology,"
+779,2684.10,2686.76,2.66,0.00,2.46,0.20,1.000,39,U.S. military power are all formidable.
+780,2686.76,2691.52,4.76,0.00,2.71,2.05,1.000,43,"If you wanted to take on the United States,"
+781,2691.52,2696.94,5.42,0.00,3.15,2.27,1.000,50,it seems the only option would be nuclear weapons.
+782,2696.94,2703.16,6.22,0.00,3.91,2.31,1.000,62,"And when the U.S. and the rival powers all step down together,"
+783,2703.16,2707.00,3.84,0.00,2.77,1.07,1.000,44,you find there aren't many remaining powers.
+784,2707.00,2710.24,3.24,0.00,1.89,1.35,1.000,30,Maybe just Europe. Understand?
+785,2710.24,2715.42,5.18,0.00,3.22,1.96,1.000,51,"And when that happens, a hostile power will arise —"
+786,2715.42,2717.96,2.54,0.00,2.65,-0.11,1.043,42,the kingdom of the Antichrist will appear.
+787,2717.96,2720.60,2.64,0.00,2.58,0.06,1.000,41,He'll demand worship; refuse and you die.
+788,2720.60,2724.86,4.26,0.00,3.22,1.04,1.000,51,That's the scene described under the sixth trumpet.
+789,2724.86,2729.36,4.50,0.00,2.58,1.92,1.000,41,I think the weapons part of the picture —
+790,2729.36,2731.96,2.60,0.00,2.27,0.33,1.000,36,you can already see the early signs.
+791,2731.96,2735.74,3.78,0.00,1.20,2.58,1.000,19,So what lies ahead?
+792,2735.74,2740.02,4.28,0.00,3.03,1.25,1.000,48,Today I've tried — through the lens of weapons —
+793,2740.02,2742.38,2.36,0.00,1.70,0.66,1.000,27,to tell you about this war.
+794,2742.38,2745.22,2.84,0.00,0.63,2.21,1.000,10,"Next week,"
+795,2745.22,2749.02,3.80,0.00,1.89,1.91,1.000,30,we'll talk about what's ahead.
+796,2749.02,2750.64,1.62,0.00,2.58,-0.96,1.596,41,That's not just current-events analysis —
+797,2750.64,2752.22,1.58,0.00,0.82,0.76,1.000,13,"in the Bible,"
+798,2752.22,2755.92,3.70,0.00,2.21,1.49,1.000,35,how does it describe what's coming?
+799,2755.92,2758.32,2.40,0.00,2.71,-0.31,1.130,43,"We'll see each other again next week, okay?"
+800,2758.32,2760.02,1.70,0.00,1.77,-0.07,1.038,28,That's all I have for today.

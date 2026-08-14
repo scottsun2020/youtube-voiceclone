@@ -2,3 +2,12 @@
 .venv/
 __pycache__/
 *.pyc
+
+# large, regenerable audio (rebuild with build_dub.py / generate_aligned_tts.py)
+audio/*.wav
+audio/_conform_tmp/
+*.log
+
+# superseded / throwaway video outputs
+output/final_english.35min_backup.mp4
+output/conform_prototype_*.mp4
