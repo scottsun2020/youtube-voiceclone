@@ -1,4 +1,5 @@
 .env
+.DS_Store
 .venv/
 __pycache__/
 *.pyc
@@ -11,3 +12,7 @@ audio/_conform_tmp/
 # superseded / throwaway video outputs
 output/final_english.35min_backup.mp4
 output/conform_prototype_*.mp4
+
+# video 2 — large regenerable audio (rebuild via video2/build_dub.py)
+video2/audio/*.wav
+cookies.txt

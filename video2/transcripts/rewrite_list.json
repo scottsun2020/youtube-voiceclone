@@ -1,0 +1,16 @@
+[
+  {
+    "sent": 92,
+    "seg_start": 153,
+    "seg_end": 154,
+    "start": 452.14,
+    "end": 461.14,
+    "tts": 3.16,
+    "slot": 9.0,
+    "ratio": 0.351,
+    "residual_gap": 5.05,
+    "scripture": false,
+    "en": "That's why this outbreak is called a \"pandemic,\" meaning a global outbreak.",
+    "zh": "因此,這次的疫情稱為Pandemic, 即是全球大流行。"
+  }
+]
