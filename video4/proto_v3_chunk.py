@@ -9,15 +9,19 @@ from pathlib import Path
 
 SR = 44100; CMAX = 1.15
 SRC = "video4/source/test_1min.mp4"
-SEG = Path("video4/audio/segments_v3s3"); SEG.mkdir(parents=True, exist_ok=True)
-OUT_WAV = Path("video4/audio/test1min_dub_v3s3.wav")
-OUT_MP4 = "video4/output/test1min_ours_v3s3.mp4"
+SEG = Path("video4/audio/segments_v3s4"); SEG.mkdir(parents=True, exist_ok=True)
+OUT_WAV = Path("video4/audio/test1min_dub_v3s4.wav")
+OUT_MP4 = "video4/output/test1min_ours_v3s4.mp4"
 TRANSITION_PAUSE = 2.5
+# No forced accent tag — it distorted phonemes ("why"->"hy") and sounded non-native.
+# Let the cloned voice speak English naturally. Set to "" for none, or e.g.
+# "[American accent] " to try a milder nudge.
+ACCENT_TAG = ""
 
-# Two chunks. Tag once at the start of each (long runway = stable accent).
+# Two chunks (one coherent v3 pass each) for consistent voice.
 # Scripture (Psalm 18:32) kept verbatim inside chunk 2.
 CHUNKS = [
- "[strong American accent] So our gathering today has a name, and it's called: \"Your Sins Are Forgiven.\" "
+ "So our gathering today has a name, and it's called: \"Your Sins Are Forgiven.\" "
  "Now, you might find that a bit abrupt — why talk about your sins being FORGIVEN the very first time we meet? "
  "But there's a picture next to me, a photo — and that photo comes from this book right here. "
  "I don't know if you can see this book I'm holding in my hand right now. "
@@ -25,7 +29,7 @@ CHUNKS = [
  "I bought it in Kathmandu. It tells of an event from the Lord Jesus' life on earth. "
  "We'll have a chance to talk about that in a bit.",
 
- "[strong American accent] Having just heard from Killy and Sai-fai, I wonder if you envy the change in their lives. "
+ "Having just heard from Killy and Sai-fai, I wonder if you envy the change in their lives. "
  "It reminds me of this ONE verse in the Bible. What does it say? "
  "It is the One who girds us with strength, and makes our way perfect. He is GOD. "
  "The God we know today isn't just some abstract idea — He is a LIVING person.",
@@ -50,6 +54,7 @@ def generate():
     for i, text in enumerate(CHUNKS):
         p = SEG / f"chunk_{i}.mp3"
         if p.exists() and p.stat().st_size > 0: continue
+        text = (ACCENT_TAG + text) if ACCENT_TAG else text
         try:
             audio = client.text_to_speech.convert(voice_id=voice_id, text=text,
                 model_id="eleven_v3", output_format="mp3_44100_128",
