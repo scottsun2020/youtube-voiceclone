@@ -1,18 +1,35 @@
+# --- secrets / config ---
 .env
+cookies.txt
+# NOTE: .voice_id is kept in git (it's just the ElevenLabs voice ID, not a secret,
+# and the pipeline scripts read it). Only .env (the API key) is excluded.
+
+# --- OS / editor ---
 .DS_Store
+
+# --- python ---
 .venv/
 __pycache__/
 *.pyc
 
-# large, regenerable audio (rebuild with build_dub.py / generate_aligned_tts.py)
-audio/*.wav
-audio/_conform_tmp/
+# --- logs ---
 *.log
 
-# superseded / throwaway video outputs
-output/final_english.35min_backup.mp4
-output/conform_prototype_*.mp4
+# --- large / regenerable MEDIA (keep code + transcripts in git, media lives off-git) ---
+# All audio and video is either regenerable via the pipeline scripts (+ API) or
+# already stored elsewhere (local / Google Drive / YouTube). Excluded across every
+# video dir (root video1, video2/, video3/, video4/, and any future videoN/).
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.mkv
+*.webm
+*.aac
 
-# video 2 — large regenerable audio (rebuild via video2/build_dub.py)
-video2/audio/*.wav
-cookies.txt
+# segment / clip working folders (regenerable TTS clips)
+**/audio/segments/
+**/audio/segments_*/
+**/audio/dubbing_sentences/
+**/audio/chunks/
+audio/_conform_tmp/
