@@ -1,0 +1,80 @@
+"""Video 2: captions matching the spoken dub, timed to the assembled audio.
+Replays build_dub.py pacing analytically. -> video4/transcripts/subtitles_en_dub.srt
+"""
+import re, subprocess
+from pathlib import Path
+from build_dub import parse, sentences, REWRITES, SEG, SENT, LMAX, CMAX, t2s
+
+OUT = Path("video4/transcripts/subtitles_en_dub.srt")
+MAXLEN = 47
+
+
+def dur(p):
+    r = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                        "-of", "default=nw=1:nk=1", str(p)], capture_output=True, text=True)
+    return float(r.stdout.strip())
+
+
+def chunk(text):
+    words = text.split(); lines = []; cur = ""
+    for w in words:
+        if cur and len(cur)+1+len(w) > MAXLEN:
+            lines.append(cur); cur = w
+        else:
+            cur = (cur+" "+w).strip()
+        if cur and cur[-1] in ",;:" and len(cur) >= 28:
+            lines.append(cur); cur = ""
+        elif cur.endswith("—") and len(cur) >= 28:
+            lines.append(cur); cur = ""
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def ts(t):
+    h = int(t//3600); m = int(t % 3600//60); s = t % 60
+    return f"{h:02d}:{m:02d}:{s:06.3f}".replace(".", ",")
+
+
+def main():
+    segs = parse(); sents = sentences(segs); target = t2s(segs[-1]["ts"])
+    caps = []; cursor = 0.0
+    for si, sent in enumerate(sents):
+        n = si + 1
+        start = t2s(sent[0]["ts"])
+        if cursor < start:
+            cursor = start
+        if n in REWRITES:
+            natural = dur(SENT / f"sent_{n:03d}.mp3")
+            units = [(c, None) for c in chunk(REWRITES[n])]
+        else:
+            units = []; natural = 0.0
+            for s in sent:
+                d = dur(SEG / f"seg_{s['i']:03d}.mp3")
+                natural += d; units.append((s["text"], d))
+        nxt = t2s(sents[si+1][0]["ts"]) if si+1 < len(sents) else target
+        avail = nxt - cursor
+        if avail <= 0:
+            speed = CMAX
+        elif natural > avail:
+            speed = min(CMAX, natural/avail)
+        else:
+            speed = 1.0/min(LMAX, avail/natural)
+        sent_dur = natural/speed
+        if n in REWRITES:
+            tot = sum(len(u[0]) for u in units) or 1
+            durs = [sent_dur*len(u[0])/tot for u in units]
+        else:
+            durs = [u[1]/speed for u in units]
+        t = cursor
+        for (text, _), d in zip(units, durs):
+            caps.append((t, t+d, text)); t += d
+        cursor += sent_dur
+    with OUT.open("w") as f:
+        for i, (a, b, txt) in enumerate(caps, 1):
+            f.write(f"{i}\n{ts(a)} --> {ts(b)}\n{txt}\n\n")
+    print(f"Wrote {OUT}: {len(caps)} captions, ends {ts(caps[-1][1])}")
+
+
+if __name__ == "__main__":
+    main()
