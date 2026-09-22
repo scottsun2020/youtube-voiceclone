@@ -9,14 +9,15 @@ from pathlib import Path
 
 SR = 44100; CMAX = 1.15
 SRC = "video4/source/test_1min.mp4"
-SEG = Path("video4/audio/segments_v3s4"); SEG.mkdir(parents=True, exist_ok=True)
-OUT_WAV = Path("video4/audio/test1min_dub_v3s4.wav")
-OUT_MP4 = "video4/output/test1min_ours_v3s4.mp4"
+SEG = Path("video4/audio/segments_v3s5"); SEG.mkdir(parents=True, exist_ok=True)
+OUT_WAV = Path("video4/audio/test1min_dub_v3s5.wav")
+OUT_MP4 = "video4/output/test1min_ours_v3s5.mp4"
 TRANSITION_PAUSE = 2.5
-# No forced accent tag — it distorted phonemes ("why"->"hy") and sounded non-native.
-# Let the cloned voice speak English naturally. Set to "" for none, or e.g.
-# "[American accent] " to try a milder nudge.
-ACCENT_TAG = ""
+# LOCKED Video 4 recipe ("variant d"): American accent, natural pauses, consistent
+# voice. Key = LOW similarity_boost (0.3) so the clone loosens enough for the accent
+# tag to take effect; speaker_boost ON keeps pacing/pauses healthy.
+#   model=eleven_v3, stability=0.5, similarity_boost=0.3, use_speaker_boost=True
+ACCENT_TAG = "[American accent] "
 
 # Two chunks (one coherent v3 pass each) for consistent voice.
 # Scripture (Psalm 18:32) kept verbatim inside chunk 2.
@@ -58,7 +59,8 @@ def generate():
         try:
             audio = client.text_to_speech.convert(voice_id=voice_id, text=text,
                 model_id="eleven_v3", output_format="mp3_44100_128",
-                voice_settings=VoiceSettings(stability=0.5, similarity_boost=0.8))
+                voice_settings=VoiceSettings(stability=0.5, similarity_boost=0.3,
+                                             use_speaker_boost=True))
         except Exception:
             audio = client.text_to_speech.convert(voice_id=voice_id, text=text,
                 model_id="eleven_v3", output_format="mp3_44100_128")
