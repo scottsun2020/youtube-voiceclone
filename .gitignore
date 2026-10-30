@@ -33,3 +33,9 @@ __pycache__/
 **/audio/dubbing_sentences/
 **/audio/chunks/
 audio/_conform_tmp/
+
+# backups & scratch (regenerable; large binaries)
+*.bak
+*.bak2
+*.pcm
+**/backup_pre_align/
